@@ -1,0 +1,14 @@
+name: Selenium CI Pipeline
+
+on: [push]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Run Selenium Test
+        run: python selenium_test.py
+
