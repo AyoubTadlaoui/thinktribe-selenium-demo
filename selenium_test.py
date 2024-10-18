@@ -1,9 +1,11 @@
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-import logging
-import time  # New import to add wait before taking screenshot
+from selenium import webdriver  # WebDriver interface for browser control
+from selenium.webdriver.common.by import By  # Locators strategy
+from selenium.webdriver.support.ui import WebDriverWait  # Explicit waits
+from selenium.webdriver.support import expected_conditions as EC  # Wait conditions
+from selenium.webdriver.chrome.service import Service  # ChromeDriver service handling
+from selenium.common.exceptions import TimeoutException, WebDriverException  # Exception handling
+import logging  # Logging to track events
+import time  # Time module for sleep delays
 
 # Set up logging
 logging.basicConfig(

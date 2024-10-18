@@ -16,14 +16,13 @@ jobs:
         python-version: 3.8
 
     - name: Install Dependencies
-      run: |
-        pip install -r requirements.txt
+      run: pip install -r requirements.txt
 
     - name: Install Chromium and Driver
       run: |
         sudo apt-get update
         sudo apt-get install -y chromium-chromedriver
 
-    - name: Run Selenium Test
+    - name: Run Selenium Tests
       run: python selenium_test.py
 
