@@ -1,0 +1,185 @@
+2024-10-18 18:24:41,953 - INFO - Opening ThinkTribe homepage...
+2024-10-18 18:24:43,942 - INFO - Homepage title: Reduce online abandonment with unrivalled CX visibility - thinkTRIBE
+2024-10-18 18:24:43,945 - INFO - Cookie banner dismissed via JavaScript.
+2024-10-18 18:24:43,945 - INFO - Scrolling to the bottom of the page...
+2024-10-18 18:24:45,970 - INFO - 'Our Services' link clicked via JavaScript.
+2024-10-18 18:24:48,262 - INFO - 'Our Services' link clicked after hovering.
+2024-10-18 18:24:48,262 - INFO - Manually navigating to 'Our Services' page...
+2024-10-18 18:24:54,120 - INFO - Current URL: https://thinktribe.com/services
+2024-10-18 18:24:54,121 - INFO - Successfully navigated to 'Our Services' page.
+2024-10-18 18:24:54,121 - INFO - Saving final screenshot...
+2024-10-18 18:24:54,316 - INFO - Closing the browser...
+2024-10-18 18:28:32,373 - INFO - Opening ThinkTribe homepage...
+2024-10-18 18:28:34,148 - INFO - Homepage title: Reduce online abandonment with unrivalled CX visibility - thinkTRIBE
+2024-10-18 18:28:34,220 - INFO - Cookie banner dismissed via JavaScript.
+2024-10-18 18:28:34,220 - INFO - Scrolling to the bottom of the page...
+2024-10-18 18:28:36,389 - INFO - 'Our Services' link clicked via JavaScript.
+2024-10-18 18:28:38,799 - INFO - 'Our Services' link clicked after hover.
+2024-10-18 18:28:38,923 - INFO - 'Our Services' link points to: https://thinktribe.com/#
+2024-10-18 18:28:38,923 - INFO - Navigating to extracted link: https://thinktribe.com/#
+2024-10-18 18:28:41,938 - INFO - Current URL: https://thinktribe.com/#
+2024-10-18 18:28:41,938 - WARNING - Failed to navigate to 'Our Services' page.
+2024-10-18 18:28:41,944 - INFO - Scrolled to 'Our Services' section.
+2024-10-18 18:28:42,030 - INFO - Saving final screenshot...
+2024-10-18 18:28:42,093 - INFO - Closing the browser...
+2024-10-18 18:37:20,656 - INFO - Opening ThinkTribe homepage...
+2024-10-18 18:37:22,561 - INFO - Homepage title: Reduce online abandonment with unrivalled CX visibility - thinkTRIBE
+2024-10-18 18:37:32,678 - WARNING - No cookie banner found: Message: element not interactable
+  (Session info: chrome=130.0.6723.59)
+Stacktrace:
+0   chromedriver                        0x0000000100b9f9d4 cxxbridge1$str$ptr + 3647524
+1   chromedriver                        0x0000000100b98234 cxxbridge1$str$ptr + 3616900
+2   chromedriver                        0x0000000100603f7c cxxbridge1$string$len + 88016
+3   chromedriver                        0x00000001006472b4 cxxbridge1$string$len + 363272
+4   chromedriver                        0x000000010063ce14 cxxbridge1$string$len + 321128
+5   chromedriver                        0x000000010063c8b0 cxxbridge1$string$len + 319748
+6   chromedriver                        0x000000010067fb10 cxxbridge1$string$len + 594788
+7   chromedriver                        0x000000010063af34 cxxbridge1$string$len + 313224
+8   chromedriver                        0x000000010063bba4 cxxbridge1$string$len + 316408
+9   chromedriver                        0x0000000100b6a61c cxxbridge1$str$ptr + 3429484
+10  chromedriver                        0x0000000100b6d958 cxxbridge1$str$ptr + 3442600
+11  chromedriver                        0x0000000100b51344 cxxbridge1$str$ptr + 3326356
+12  chromedriver                        0x0000000100b6e21c cxxbridge1$str$ptr + 3444844
+13  chromedriver                        0x0000000100b425cc cxxbridge1$str$ptr + 3265564
+14  chromedriver                        0x0000000100b88c98 cxxbridge1$str$ptr + 3554024
+15  chromedriver                        0x0000000100b88e14 cxxbridge1$str$ptr + 3554404
+16  chromedriver                        0x0000000100b97ecc cxxbridge1$str$ptr + 3616028
+17  libsystem_pthread.dylib             0x000000019b70b2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x000000019b7060fc thread_start + 8
+
+2024-10-18 18:37:33,069 - INFO - 'Services' dropdown opened.
+2024-10-18 18:37:44,232 - ERROR - An unexpected error occurred: Message: element not interactable
+  (Session info: chrome=130.0.6723.59)
+Stacktrace:
+0   chromedriver                        0x0000000100b9f9d4 cxxbridge1$str$ptr + 3647524
+1   chromedriver                        0x0000000100b98234 cxxbridge1$str$ptr + 3616900
+2   chromedriver                        0x0000000100603f7c cxxbridge1$string$len + 88016
+3   chromedriver                        0x00000001006472b4 cxxbridge1$string$len + 363272
+4   chromedriver                        0x000000010063ce14 cxxbridge1$string$len + 321128
+5   chromedriver                        0x000000010063c8b0 cxxbridge1$string$len + 319748
+6   chromedriver                        0x000000010067fb10 cxxbridge1$string$len + 594788
+7   chromedriver                        0x000000010063af34 cxxbridge1$string$len + 313224
+8   chromedriver                        0x000000010063bba4 cxxbridge1$string$len + 316408
+9   chromedriver                        0x0000000100b6a61c cxxbridge1$str$ptr + 3429484
+10  chromedriver                        0x0000000100b6d958 cxxbridge1$str$ptr + 3442600
+11  chromedriver                        0x0000000100b51344 cxxbridge1$str$ptr + 3326356
+12  chromedriver                        0x0000000100b6e21c cxxbridge1$str$ptr + 3444844
+13  chromedriver                        0x0000000100b425cc cxxbridge1$str$ptr + 3265564
+14  chromedriver                        0x0000000100b88c98 cxxbridge1$str$ptr + 3554024
+15  chromedriver                        0x0000000100b88e14 cxxbridge1$str$ptr + 3554404
+16  chromedriver                        0x0000000100b97ecc cxxbridge1$str$ptr + 3616028
+17  libsystem_pthread.dylib             0x000000019b70b2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x000000019b7060fc thread_start + 8
+
+2024-10-18 18:37:44,337 - INFO - Saving final screenshot...
+2024-10-18 18:37:44,427 - INFO - Closing the browser...
+2024-10-18 18:43:18,343 - INFO - Opening ThinkTribe homepage...
+2024-10-18 18:43:20,377 - INFO - Homepage title: Reduce online abandonment with unrivalled CX visibility - thinkTRIBE
+2024-10-18 18:43:30,832 - WARNING - No cookie banner found: Message: 
+
+2024-10-18 18:43:31,211 - INFO - 'Services' dropdown opened.
+2024-10-18 18:43:41,602 - ERROR - An unexpected error occurred: Message: 
+
+2024-10-18 18:43:41,711 - INFO - Saving final screenshot...
+2024-10-18 18:43:41,791 - INFO - Closing the browser...
+2024-10-18 20:07:46,906 - INFO - Opening ThinkTribe homepage...
+2024-10-18 20:07:48,679 - INFO - Homepage title: Reduce online abandonment with unrivalled CX visibility - thinkTRIBE
+2024-10-18 20:07:59,153 - WARNING - No cookie banner found: Message: 
+
+2024-10-18 20:07:59,540 - INFO - 'Services' dropdown opened.
+2024-10-18 20:08:09,895 - ERROR - An unexpected error occurred: Message: 
+
+2024-10-18 20:08:10,009 - INFO - Saving final screenshot...
+2024-10-18 20:08:10,089 - INFO - Closing the browser...
+2024-10-18 20:10:30,635 - INFO - Opening ThinkTribe homepage...
+2024-10-18 20:10:32,401 - INFO - Homepage title: Reduce online abandonment with unrivalled CX visibility - thinkTRIBE
+2024-10-18 20:10:37,778 - WARNING - Attempt 1: No cookie banner found or not interactable: Message: 
+
+2024-10-18 20:10:44,964 - WARNING - Attempt 2: No cookie banner found or not interactable: Message: 
+
+2024-10-18 20:10:52,165 - WARNING - Attempt 3: No cookie banner found or not interactable: Message: 
+
+2024-10-18 20:10:54,168 - WARNING - Failed to dismiss cookie banner after 3 attempts.
+2024-10-18 20:10:54,559 - INFO - 'Services' dropdown opened.
+2024-10-18 20:11:05,001 - WARNING - Normal click failed: Message: 
+. Trying JavaScript click...
+2024-10-18 20:11:05,003 - ERROR - An unexpected error occurred: cannot access local variable 'dcx_link' where it is not associated with a value
+2024-10-18 20:11:05,130 - INFO - Saving final screenshot...
+2024-10-18 20:11:05,203 - INFO - Closing the browser...
+2024-10-18 20:14:48,636 - INFO - Opening ThinkTribe homepage...
+2024-10-18 20:14:50,280 - INFO - Homepage title: Reduce online abandonment with unrivalled CX visibility - thinkTRIBE
+2024-10-18 20:15:00,856 - WARNING - Cookie banner 'OK' button not found or not interactable: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102f979d4 cxxbridge1$str$ptr + 3647524
+1   chromedriver                        0x0000000102f90234 cxxbridge1$str$ptr + 3616900
+2   chromedriver                        0x00000001029fc10c cxxbridge1$string$len + 88416
+3   chromedriver                        0x0000000102a3e338 cxxbridge1$string$len + 359308
+4   chromedriver                        0x0000000102a77b10 cxxbridge1$string$len + 594788
+5   chromedriver                        0x0000000102a32f34 cxxbridge1$string$len + 313224
+6   chromedriver                        0x0000000102a33ba4 cxxbridge1$string$len + 316408
+7   chromedriver                        0x0000000102f6261c cxxbridge1$str$ptr + 3429484
+8   chromedriver                        0x0000000102f65958 cxxbridge1$str$ptr + 3442600
+9   chromedriver                        0x0000000102f49344 cxxbridge1$str$ptr + 3326356
+10  chromedriver                        0x0000000102f6621c cxxbridge1$str$ptr + 3444844
+11  chromedriver                        0x0000000102f3a5cc cxxbridge1$str$ptr + 3265564
+12  chromedriver                        0x0000000102f80c98 cxxbridge1$str$ptr + 3554024
+13  chromedriver                        0x0000000102f80e14 cxxbridge1$str$ptr + 3554404
+14  chromedriver                        0x0000000102f8fecc cxxbridge1$str$ptr + 3616028
+15  libsystem_pthread.dylib             0x000000019b70b2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000019b7060fc thread_start + 8
+
+2024-10-18 20:15:01,226 - INFO - 'Services' dropdown opened.
+2024-10-18 20:15:11,670 - WARNING - Normal click failed: Message: 
+. Trying JavaScript click...
+2024-10-18 20:15:11,671 - ERROR - An unexpected error occurred: cannot access local variable 'dcx_link' where it is not associated with a value
+2024-10-18 20:15:12,027 - INFO - Saving final screenshot...
+2024-10-18 20:15:12,101 - INFO - Closing the browser...
+2024-10-18 20:24:55,859 - INFO - Opening ThinkTribe homepage...
+2024-10-18 20:24:59,673 - INFO - Homepage title: Reduce online abandonment with unrivalled CX visibility - thinkTRIBE
+2024-10-18 20:24:59,724 - INFO - Cookie banner dismissed with normal click.
+2024-10-18 20:25:00,000 - INFO - 'Services' dropdown opened.
+2024-10-18 20:25:01,583 - INFO - 'DCX Intelligence' link clicked.
+2024-10-18 20:25:02,058 - INFO - Saving final screenshot...
+2024-10-18 20:25:02,058 - INFO - Closing the browser...
+2024-10-18 20:27:02,316 - INFO - Opening ThinkTribe homepage...
+2024-10-18 20:27:06,053 - INFO - Homepage title: Reduce online abandonment with unrivalled CX visibility - thinkTRIBE
+2024-10-18 20:27:06,095 - INFO - Cookie banner dismissed with normal click.
+2024-10-18 20:27:06,384 - INFO - 'Services' dropdown opened.
+2024-10-18 20:27:07,788 - INFO - 'DCX Intelligence' link clicked.
+2024-10-18 20:27:08,106 - INFO - Saving final screenshot...
+2024-10-18 20:27:08,106 - INFO - Closing the browser...
+2024-10-18 21:06:46,558 - INFO - Opening ThinkTribe homepage...
+2024-10-18 21:06:50,387 - INFO - Homepage title: Reduce online abandonment with unrivalled CX visibility - thinkTRIBE
+2024-10-18 21:06:50,440 - INFO - Cookie banner dismissed with normal click.
+2024-10-18 21:06:50,717 - INFO - 'Services' dropdown opened.
+2024-10-18 21:06:53,089 - INFO - 'DCX Intelligence' link clicked.
+2024-10-18 21:06:53,437 - INFO - Saving final screenshot...
+2024-10-18 21:06:53,437 - INFO - Closing the browser...
+2024-10-18 21:09:10,087 - INFO - Opening ThinkTribe homepage...
+2024-10-18 21:09:11,747 - INFO - Homepage title: Reduce online abandonment with unrivalled CX visibility - thinkTRIBE
+2024-10-18 21:09:11,790 - INFO - Cookie banner dismissed with normal click.
+2024-10-18 21:09:11,894 - INFO - 'Services' dropdown opened.
+2024-10-18 21:09:12,770 - INFO - 'DCX Intelligence' link clicked.
+2024-10-18 21:09:12,955 - INFO - Saving final screenshot...
+2024-10-18 21:09:12,955 - INFO - Closing the browser...
+2024-10-18 21:10:45,292 - INFO - Opening ThinkTribe homepage...
+2024-10-18 21:10:47,004 - INFO - Homepage title: Reduce online abandonment with unrivalled CX visibility - thinkTRIBE
+2024-10-18 21:10:47,051 - INFO - Cookie banner dismissed.
+2024-10-18 21:10:47,144 - INFO - 'Services' dropdown opened.
+2024-10-18 21:10:48,070 - INFO - 'DCX Intelligence' link clicked.
+2024-10-18 21:10:48,394 - INFO - Saving final screenshot...
+2024-10-18 21:10:48,394 - INFO - Closing the browser...
+2024-10-18 21:11:28,935 - INFO - Opening ThinkTribe homepage...
+2024-10-18 21:11:30,563 - INFO - Homepage title: Reduce online abandonment with unrivalled CX visibility - thinkTRIBE
+2024-10-18 21:11:30,608 - INFO - Cookie banner dismissed.
+2024-10-18 21:11:30,698 - INFO - 'Services' dropdown opened.
+2024-10-18 21:11:31,561 - INFO - 'DCX Intelligence' link clicked.
+2024-10-18 21:11:31,841 - INFO - Saving final screenshot...
+2024-10-18 21:11:31,841 - INFO - Closing the browser...
+2024-10-18 21:16:05,853 - INFO - Opening ThinkTribe homepage...
+2024-10-18 21:16:07,887 - INFO - Homepage title: Reduce online abandonment with unrivalled CX visibility - thinkTRIBE
+2024-10-18 21:16:07,942 - INFO - Cookie banner dismissed.
+2024-10-18 21:16:08,046 - INFO - 'Services' dropdown opened.
+2024-10-18 21:16:08,972 - INFO - 'DCX Intelligence' link clicked.
+2024-10-18 21:16:14,284 - INFO - Saving final screenshot...
+2024-10-18 21:16:14,284 - INFO - Closing the browser...
