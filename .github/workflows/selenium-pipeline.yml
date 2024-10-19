@@ -29,4 +29,3 @@ jobs:
 
       - name: Run Selenium Test
         run: python selenium_test.py
-
