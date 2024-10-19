@@ -1,3 +1,2 @@
 selenium==4.25.0
-python3.8 -m pip install --upgrade pip
 
