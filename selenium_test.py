@@ -1,35 +1,32 @@
-from selenium import webdriver  # WebDriver interface for browser control
-from selenium.webdriver.common.by import By  # Locators strategy
-from selenium.webdriver.support.ui import WebDriverWait  # Explicit waits
-from selenium.webdriver.support import expected_conditions as EC  # Wait conditions
-from selenium.webdriver.chrome.service import Service  # ChromeDriver service handling
-from selenium.common.exceptions import TimeoutException, WebDriverException  # Exception handling
-import logging  # Logging to track events
-import time  # Time module for sleep delays
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.action_chains import ActionChains
+import logging
+import time
 
-# Set up logging
 logging.basicConfig(
     filename='logs/test_log.log', 
     level=logging.INFO, 
     format='%(asctime)s - %(levelname)s - %(message)s'
 )
 
-# Initialize WebDriver with ChromeOptions
-options = webdriver.ChromeOptions()
-options.add_argument("--start-maximized")  # Maximize window to avoid scaling issues
-driver = webdriver.Chrome(options=options)
+driver = webdriver.Safari()
+# Maximize the Safari window
+driver.maximize_window()
 
 try:
     logging.info("Opening ThinkTribe homepage...")
     driver.get("https://thinktribe.com")
 
-    # Wait until the homepage loads completely by checking the title
     WebDriverWait(driver, 10).until(
         EC.title_contains("Reduce online abandonment")
     )
     logging.info(f"Homepage title: {driver.title}")
+    time.sleep(1)
+    driver.save_screenshot('screenshots/homepage_initial.png')
 
-    # Handle cookie banner
     try:
         cookie_ok_button = WebDriverWait(driver, 10).until(
             EC.element_to_be_clickable((By.ID, "CybotCookiebotDialogBodyLevelButtonAccept"))
@@ -39,31 +36,44 @@ try:
     except Exception as e:
         logging.warning(f"Failed to dismiss cookie banner: {e}")
 
-    # Open 'Services' dropdown
-    services_menu = WebDriverWait(driver, 10).until(
-        EC.element_to_be_clickable((By.LINK_TEXT, "Services"))
-    )
-    services_menu.click()
-    logging.info("'Services' dropdown opened.")
+    time.sleep(1)
+    driver.save_screenshot('screenshots/homepage_after_cookie.png')
 
-    # Click 'DCX Intelligence' link
-    dcx_link = WebDriverWait(driver, 10).until(
-        EC.element_to_be_clickable((By.LINK_TEXT, "DCX Intelligence"))
-    )
-    dcx_link.click()
-    logging.info("'DCX Intelligence' link clicked.")
+    # Define services to navigate
+    services = [
+        ("Mobile DCX Intelligence", "https://thinktribe.com/mobile-performance-monitoring/"),
+        ("Native App DCX Intelligence", "https://thinktribe.com/native-app-monitoring-on-android-ios/"),
+        ("Load & Performance Testing", "https://thinktribe.com/load-and-performance-testing/"),
+        ("DCX Release Testing", "https://thinktribe.com/release-acceptance-testing/"),
+        ("DCX Audit", "https://thinktribe.com/site-audit/")
+    ]
 
-    # Wait until the new page fully loads by monitoring the URL
-    WebDriverWait(driver, 10).until(
-        EC.url_contains("website-performance-monitoring")
-    )
+    # Loop through each service
+    for service_name, service_url in services:
+        try:
+            # Hover over the Services menu to display the dropdown
+            services_menu = WebDriverWait(driver, 10).until(
+                EC.element_to_be_clickable((By.LINK_TEXT, "Services"))
+            )
+            ActionChains(driver).move_to_element(services_menu).perform()
+            time.sleep(1)  # Short wait to ensure dropdown is visible
 
-    # Adding delay to ensure all elements render before taking the screenshot
-    time.sleep(5)  # Wait an additional 5 seconds
+            service_link = WebDriverWait(driver, 10).until(
+                EC.element_to_be_clickable((By.LINK_TEXT, service_name))
+            )
+            service_link.click()
+            logging.info(f"{service_name} link clicked.")
+            time.sleep(2)  # Slightly longer wait for page to load
 
-    # Save the final screenshot
-    driver.save_screenshot('screenshots/final_screenshot.png')
-    logging.info("Saving final screenshot...")
+            driver.save_screenshot(f'screenshots/{service_name.replace(" ", "_").lower()}_screenshot.png')
+
+            WebDriverWait(driver, 10).until(
+                EC.url_contains(service_url)
+            )
+            logging.info(f"Successfully navigated to {service_name} page.")
+
+        except Exception as e:
+            logging.error(f"Error navigating to {service_name}: {e}")
 
 finally:
     logging.info("Closing the browser...")

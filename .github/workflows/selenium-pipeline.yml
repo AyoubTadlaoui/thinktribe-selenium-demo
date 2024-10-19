@@ -1,28 +1,27 @@
 name: Selenium CI Pipeline
 
-on: [push]
+on: [push, pull_request]
 
 jobs:
-  selenium-test:
+  selenium:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v3
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: 3.8
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.8
 
-    - name: Install Dependencies
-      run: pip install -r requirements.txt
+      - name: Install Chrome
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y google-chrome-stable
 
-    - name: Install Chromium and Driver
-      run: |
-        sudo apt-get update
-        sudo apt-get install -y chromium-chromedriver
+      - name: Install dependencies
+        run: pip install -r requirements.txt
 
-    - name: Run Selenium Tests
-      run: python selenium_test.py
+      - name: Run Selenium Test
+        run: python selenium_test.py
 

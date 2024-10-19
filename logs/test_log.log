@@ -197,3 +197,1094 @@ Stacktrace:
 2024-10-18 23:41:40,509 - INFO - 'DCX Intelligence' link clicked.
 2024-10-18 23:41:45,819 - INFO - Saving final screenshot...
 2024-10-18 23:41:45,819 - INFO - Closing the browser...
+2024-10-18 23:49:41,307 - INFO - Opening ThinkTribe homepage...
+2024-10-18 23:49:43,047 - INFO - Homepage title: Reduce online abandonment with unrivalled CX visibility - thinkTRIBE
+2024-10-18 23:49:43,095 - INFO - Cookie banner dismissed.
+2024-10-18 23:49:43,189 - INFO - 'Services' dropdown opened.
+2024-10-18 23:49:44,061 - INFO - 'DCX Intelligence' link clicked.
+2024-10-18 23:49:49,374 - INFO - Saving final screenshot...
+2024-10-18 23:49:49,374 - INFO - Closing the browser...
+2024-10-19 02:19:29,508 - INFO - Opening ThinkTribe homepage...
+2024-10-19 02:19:31,208 - INFO - Homepage title: Reduce online abandonment with unrivalled CX visibility - thinkTRIBE
+2024-10-19 02:19:32,270 - INFO - Closing the browser...
+2024-10-19 02:19:57,807 - INFO - Opening ThinkTribe homepage...
+2024-10-19 02:19:59,545 - INFO - Homepage title: Reduce online abandonment with unrivalled CX visibility - thinkTRIBE
+2024-10-19 02:20:00,599 - INFO - Closing the browser...
+2024-10-19 02:20:04,279 - INFO - Opening ThinkTribe homepage...
+2024-10-19 02:20:05,880 - INFO - Homepage title: Reduce online abandonment with unrivalled CX visibility - thinkTRIBE
+2024-10-19 02:20:06,974 - INFO - Closing the browser...
+2024-10-19 02:23:26,470 - INFO - Opening ThinkTribe homepage...
+2024-10-19 02:23:28,143 - INFO - Homepage title: Reduce online abandonment with unrivalled CX visibility - thinkTRIBE
+2024-10-19 02:23:28,231 - INFO - Cookie banner dismissed.
+2024-10-19 02:23:28,321 - INFO - 'Services' dropdown opened.
+2024-10-19 02:23:29,349 - INFO - 'DCX Intelligence' link clicked.
+2024-10-19 02:23:34,762 - INFO - Saving final screenshot...
+2024-10-19 02:23:34,783 - INFO - 'Services' dropdown opened again.
+2024-10-19 02:23:45,169 - INFO - Closing the browser...
+2024-10-19 02:26:58,187 - INFO - Opening ThinkTribe homepage...
+2024-10-19 02:26:59,891 - INFO - Homepage title: Reduce online abandonment with unrivalled CX visibility - thinkTRIBE
+2024-10-19 02:26:59,943 - INFO - Cookie banner dismissed.
+2024-10-19 02:27:00,054 - INFO - 'Services' dropdown opened.
+2024-10-19 02:27:01,056 - INFO - Mobile DCX Intelligence link clicked.
+2024-10-19 02:27:11,256 - ERROR - Error navigating to Mobile DCX Intelligence: Message: 
+
+2024-10-19 02:27:21,682 - ERROR - Error navigating to Native App DCX Intelligence: Message: 
+Stacktrace:
+0   chromedriver                        0x000000010355f9d4 cxxbridge1$str$ptr + 3647524
+1   chromedriver                        0x0000000103558234 cxxbridge1$str$ptr + 3616900
+2   chromedriver                        0x0000000102fc410c cxxbridge1$string$len + 88416
+3   chromedriver                        0x0000000103006338 cxxbridge1$string$len + 359308
+4   chromedriver                        0x000000010303fb10 cxxbridge1$string$len + 594788
+5   chromedriver                        0x0000000102ffaf34 cxxbridge1$string$len + 313224
+6   chromedriver                        0x0000000102ffbba4 cxxbridge1$string$len + 316408
+7   chromedriver                        0x000000010352a61c cxxbridge1$str$ptr + 3429484
+8   chromedriver                        0x000000010352d958 cxxbridge1$str$ptr + 3442600
+9   chromedriver                        0x0000000103511344 cxxbridge1$str$ptr + 3326356
+10  chromedriver                        0x000000010352e21c cxxbridge1$str$ptr + 3444844
+11  chromedriver                        0x00000001035025cc cxxbridge1$str$ptr + 3265564
+12  chromedriver                        0x0000000103548c98 cxxbridge1$str$ptr + 3554024
+13  chromedriver                        0x0000000103548e14 cxxbridge1$str$ptr + 3554404
+14  chromedriver                        0x0000000103557ecc cxxbridge1$str$ptr + 3616028
+15  libsystem_pthread.dylib             0x000000019b70b2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000019b7060fc thread_start + 8
+
+2024-10-19 02:27:32,132 - ERROR - Error navigating to Load & Performance Testing: Message: 
+Stacktrace:
+0   chromedriver                        0x000000010355f9d4 cxxbridge1$str$ptr + 3647524
+1   chromedriver                        0x0000000103558234 cxxbridge1$str$ptr + 3616900
+2   chromedriver                        0x0000000102fc410c cxxbridge1$string$len + 88416
+3   chromedriver                        0x0000000103006338 cxxbridge1$string$len + 359308
+4   chromedriver                        0x000000010303fb10 cxxbridge1$string$len + 594788
+5   chromedriver                        0x0000000102ffaf34 cxxbridge1$string$len + 313224
+6   chromedriver                        0x0000000102ffbba4 cxxbridge1$string$len + 316408
+7   chromedriver                        0x000000010352a61c cxxbridge1$str$ptr + 3429484
+8   chromedriver                        0x000000010352d958 cxxbridge1$str$ptr + 3442600
+9   chromedriver                        0x0000000103511344 cxxbridge1$str$ptr + 3326356
+10  chromedriver                        0x000000010352e21c cxxbridge1$str$ptr + 3444844
+11  chromedriver                        0x00000001035025cc cxxbridge1$str$ptr + 3265564
+12  chromedriver                        0x0000000103548c98 cxxbridge1$str$ptr + 3554024
+13  chromedriver                        0x0000000103548e14 cxxbridge1$str$ptr + 3554404
+14  chromedriver                        0x0000000103557ecc cxxbridge1$str$ptr + 3616028
+15  libsystem_pthread.dylib             0x000000019b70b2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000019b7060fc thread_start + 8
+
+2024-10-19 02:27:42,596 - ERROR - Error navigating to DCX Release Testing: Message: 
+Stacktrace:
+0   chromedriver                        0x000000010355f9d4 cxxbridge1$str$ptr + 3647524
+1   chromedriver                        0x0000000103558234 cxxbridge1$str$ptr + 3616900
+2   chromedriver                        0x0000000102fc410c cxxbridge1$string$len + 88416
+3   chromedriver                        0x0000000103006338 cxxbridge1$string$len + 359308
+4   chromedriver                        0x000000010303fb10 cxxbridge1$string$len + 594788
+5   chromedriver                        0x0000000102ffaf34 cxxbridge1$string$len + 313224
+6   chromedriver                        0x0000000102ffbba4 cxxbridge1$string$len + 316408
+7   chromedriver                        0x000000010352a61c cxxbridge1$str$ptr + 3429484
+8   chromedriver                        0x000000010352d958 cxxbridge1$str$ptr + 3442600
+9   chromedriver                        0x0000000103511344 cxxbridge1$str$ptr + 3326356
+10  chromedriver                        0x000000010352e21c cxxbridge1$str$ptr + 3444844
+11  chromedriver                        0x00000001035025cc cxxbridge1$str$ptr + 3265564
+12  chromedriver                        0x0000000103548c98 cxxbridge1$str$ptr + 3554024
+13  chromedriver                        0x0000000103548e14 cxxbridge1$str$ptr + 3554404
+14  chromedriver                        0x0000000103557ecc cxxbridge1$str$ptr + 3616028
+15  libsystem_pthread.dylib             0x000000019b70b2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000019b7060fc thread_start + 8
+
+2024-10-19 02:27:53,063 - ERROR - Error navigating to DCX Audit: Message: 
+Stacktrace:
+0   chromedriver                        0x000000010355f9d4 cxxbridge1$str$ptr + 3647524
+1   chromedriver                        0x0000000103558234 cxxbridge1$str$ptr + 3616900
+2   chromedriver                        0x0000000102fc410c cxxbridge1$string$len + 88416
+3   chromedriver                        0x0000000103006338 cxxbridge1$string$len + 359308
+4   chromedriver                        0x000000010303fb10 cxxbridge1$string$len + 594788
+5   chromedriver                        0x0000000102ffaf34 cxxbridge1$string$len + 313224
+6   chromedriver                        0x0000000102ffbba4 cxxbridge1$string$len + 316408
+7   chromedriver                        0x000000010352a61c cxxbridge1$str$ptr + 3429484
+8   chromedriver                        0x000000010352d958 cxxbridge1$str$ptr + 3442600
+9   chromedriver                        0x0000000103511344 cxxbridge1$str$ptr + 3326356
+10  chromedriver                        0x000000010352e21c cxxbridge1$str$ptr + 3444844
+11  chromedriver                        0x00000001035025cc cxxbridge1$str$ptr + 3265564
+12  chromedriver                        0x0000000103548c98 cxxbridge1$str$ptr + 3554024
+13  chromedriver                        0x0000000103548e14 cxxbridge1$str$ptr + 3554404
+14  chromedriver                        0x0000000103557ecc cxxbridge1$str$ptr + 3616028
+15  libsystem_pthread.dylib             0x000000019b70b2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000019b7060fc thread_start + 8
+
+2024-10-19 02:27:53,064 - INFO - Closing the browser...
+2024-10-19 02:29:09,833 - INFO - Opening ThinkTribe homepage...
+2024-10-19 02:29:11,542 - INFO - Homepage title: Reduce online abandonment with unrivalled CX visibility - thinkTRIBE
+2024-10-19 02:29:11,586 - INFO - Cookie banner dismissed.
+2024-10-19 02:29:11,687 - INFO - 'Services' dropdown opened.
+2024-10-19 02:29:12,730 - INFO - Mobile DCX Intelligence link clicked.
+2024-10-19 02:29:14,768 - ERROR - Error navigating to Mobile DCX Intelligence: Message: 
+
+2024-10-19 02:29:16,857 - ERROR - Error navigating to Native App DCX Intelligence: Message: 
+Stacktrace:
+0   chromedriver                        0x000000010117f9d4 cxxbridge1$str$ptr + 3647524
+1   chromedriver                        0x0000000101178234 cxxbridge1$str$ptr + 3616900
+2   chromedriver                        0x0000000100be410c cxxbridge1$string$len + 88416
+3   chromedriver                        0x0000000100c26338 cxxbridge1$string$len + 359308
+4   chromedriver                        0x0000000100c5fb10 cxxbridge1$string$len + 594788
+5   chromedriver                        0x0000000100c1af34 cxxbridge1$string$len + 313224
+6   chromedriver                        0x0000000100c1bba4 cxxbridge1$string$len + 316408
+7   chromedriver                        0x000000010114a61c cxxbridge1$str$ptr + 3429484
+8   chromedriver                        0x000000010114d958 cxxbridge1$str$ptr + 3442600
+9   chromedriver                        0x0000000101131344 cxxbridge1$str$ptr + 3326356
+10  chromedriver                        0x000000010114e21c cxxbridge1$str$ptr + 3444844
+11  chromedriver                        0x00000001011225cc cxxbridge1$str$ptr + 3265564
+12  chromedriver                        0x0000000101168c98 cxxbridge1$str$ptr + 3554024
+13  chromedriver                        0x0000000101168e14 cxxbridge1$str$ptr + 3554404
+14  chromedriver                        0x0000000101177ecc cxxbridge1$str$ptr + 3616028
+15  libsystem_pthread.dylib             0x000000019b70b2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000019b7060fc thread_start + 8
+
+2024-10-19 02:29:18,949 - ERROR - Error navigating to Load & Performance Testing: Message: 
+Stacktrace:
+0   chromedriver                        0x000000010117f9d4 cxxbridge1$str$ptr + 3647524
+1   chromedriver                        0x0000000101178234 cxxbridge1$str$ptr + 3616900
+2   chromedriver                        0x0000000100be410c cxxbridge1$string$len + 88416
+3   chromedriver                        0x0000000100c26338 cxxbridge1$string$len + 359308
+4   chromedriver                        0x0000000100c5fb10 cxxbridge1$string$len + 594788
+5   chromedriver                        0x0000000100c1af34 cxxbridge1$string$len + 313224
+6   chromedriver                        0x0000000100c1bba4 cxxbridge1$string$len + 316408
+7   chromedriver                        0x000000010114a61c cxxbridge1$str$ptr + 3429484
+8   chromedriver                        0x000000010114d958 cxxbridge1$str$ptr + 3442600
+9   chromedriver                        0x0000000101131344 cxxbridge1$str$ptr + 3326356
+10  chromedriver                        0x000000010114e21c cxxbridge1$str$ptr + 3444844
+11  chromedriver                        0x00000001011225cc cxxbridge1$str$ptr + 3265564
+12  chromedriver                        0x0000000101168c98 cxxbridge1$str$ptr + 3554024
+13  chromedriver                        0x0000000101168e14 cxxbridge1$str$ptr + 3554404
+14  chromedriver                        0x0000000101177ecc cxxbridge1$str$ptr + 3616028
+15  libsystem_pthread.dylib             0x000000019b70b2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000019b7060fc thread_start + 8
+
+2024-10-19 02:29:21,027 - ERROR - Error navigating to DCX Release Testing: Message: 
+Stacktrace:
+0   chromedriver                        0x000000010117f9d4 cxxbridge1$str$ptr + 3647524
+1   chromedriver                        0x0000000101178234 cxxbridge1$str$ptr + 3616900
+2   chromedriver                        0x0000000100be410c cxxbridge1$string$len + 88416
+3   chromedriver                        0x0000000100c26338 cxxbridge1$string$len + 359308
+4   chromedriver                        0x0000000100c5fb10 cxxbridge1$string$len + 594788
+5   chromedriver                        0x0000000100c1af34 cxxbridge1$string$len + 313224
+6   chromedriver                        0x0000000100c1bba4 cxxbridge1$string$len + 316408
+7   chromedriver                        0x000000010114a61c cxxbridge1$str$ptr + 3429484
+8   chromedriver                        0x000000010114d958 cxxbridge1$str$ptr + 3442600
+9   chromedriver                        0x0000000101131344 cxxbridge1$str$ptr + 3326356
+10  chromedriver                        0x000000010114e21c cxxbridge1$str$ptr + 3444844
+11  chromedriver                        0x00000001011225cc cxxbridge1$str$ptr + 3265564
+12  chromedriver                        0x0000000101168c98 cxxbridge1$str$ptr + 3554024
+13  chromedriver                        0x0000000101168e14 cxxbridge1$str$ptr + 3554404
+14  chromedriver                        0x0000000101177ecc cxxbridge1$str$ptr + 3616028
+15  libsystem_pthread.dylib             0x000000019b70b2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000019b7060fc thread_start + 8
+
+2024-10-19 02:29:23,118 - ERROR - Error navigating to DCX Audit: Message: 
+Stacktrace:
+0   chromedriver                        0x000000010117f9d4 cxxbridge1$str$ptr + 3647524
+1   chromedriver                        0x0000000101178234 cxxbridge1$str$ptr + 3616900
+2   chromedriver                        0x0000000100be410c cxxbridge1$string$len + 88416
+3   chromedriver                        0x0000000100c26338 cxxbridge1$string$len + 359308
+4   chromedriver                        0x0000000100c5fb10 cxxbridge1$string$len + 594788
+5   chromedriver                        0x0000000100c1af34 cxxbridge1$string$len + 313224
+6   chromedriver                        0x0000000100c1bba4 cxxbridge1$string$len + 316408
+7   chromedriver                        0x000000010114a61c cxxbridge1$str$ptr + 3429484
+8   chromedriver                        0x000000010114d958 cxxbridge1$str$ptr + 3442600
+9   chromedriver                        0x0000000101131344 cxxbridge1$str$ptr + 3326356
+10  chromedriver                        0x000000010114e21c cxxbridge1$str$ptr + 3444844
+11  chromedriver                        0x00000001011225cc cxxbridge1$str$ptr + 3265564
+12  chromedriver                        0x0000000101168c98 cxxbridge1$str$ptr + 3554024
+13  chromedriver                        0x0000000101168e14 cxxbridge1$str$ptr + 3554404
+14  chromedriver                        0x0000000101177ecc cxxbridge1$str$ptr + 3616028
+15  libsystem_pthread.dylib             0x000000019b70b2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000019b7060fc thread_start + 8
+
+2024-10-19 02:29:23,119 - INFO - Closing the browser...
+2024-10-19 02:31:17,515 - INFO - Opening ThinkTribe homepage...
+2024-10-19 02:31:19,295 - INFO - Homepage title: Reduce online abandonment with unrivalled CX visibility - thinkTRIBE
+2024-10-19 02:31:19,340 - INFO - Cookie banner dismissed.
+2024-10-19 02:31:19,433 - INFO - 'Services' dropdown opened.
+2024-10-19 02:31:20,460 - INFO - Mobile DCX Intelligence link clicked.
+2024-10-19 02:31:22,497 - ERROR - Error navigating to Mobile DCX Intelligence: Message: 
+
+2024-10-19 02:31:24,591 - ERROR - Error navigating to Native App DCX Intelligence: Message: 
+Stacktrace:
+0   chromedriver                        0x000000010275b9d4 cxxbridge1$str$ptr + 3647524
+1   chromedriver                        0x0000000102754234 cxxbridge1$str$ptr + 3616900
+2   chromedriver                        0x00000001021c010c cxxbridge1$string$len + 88416
+3   chromedriver                        0x0000000102202338 cxxbridge1$string$len + 359308
+4   chromedriver                        0x000000010223bb10 cxxbridge1$string$len + 594788
+5   chromedriver                        0x00000001021f6f34 cxxbridge1$string$len + 313224
+6   chromedriver                        0x00000001021f7ba4 cxxbridge1$string$len + 316408
+7   chromedriver                        0x000000010272661c cxxbridge1$str$ptr + 3429484
+8   chromedriver                        0x0000000102729958 cxxbridge1$str$ptr + 3442600
+9   chromedriver                        0x000000010270d344 cxxbridge1$str$ptr + 3326356
+10  chromedriver                        0x000000010272a21c cxxbridge1$str$ptr + 3444844
+11  chromedriver                        0x00000001026fe5cc cxxbridge1$str$ptr + 3265564
+12  chromedriver                        0x0000000102744c98 cxxbridge1$str$ptr + 3554024
+13  chromedriver                        0x0000000102744e14 cxxbridge1$str$ptr + 3554404
+14  chromedriver                        0x0000000102753ecc cxxbridge1$str$ptr + 3616028
+15  libsystem_pthread.dylib             0x000000019b70b2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000019b7060fc thread_start + 8
+
+2024-10-19 02:31:26,682 - ERROR - Error navigating to Load & Performance Testing: Message: 
+Stacktrace:
+0   chromedriver                        0x000000010275b9d4 cxxbridge1$str$ptr + 3647524
+1   chromedriver                        0x0000000102754234 cxxbridge1$str$ptr + 3616900
+2   chromedriver                        0x00000001021c010c cxxbridge1$string$len + 88416
+3   chromedriver                        0x0000000102202338 cxxbridge1$string$len + 359308
+4   chromedriver                        0x000000010223bb10 cxxbridge1$string$len + 594788
+5   chromedriver                        0x00000001021f6f34 cxxbridge1$string$len + 313224
+6   chromedriver                        0x00000001021f7ba4 cxxbridge1$string$len + 316408
+7   chromedriver                        0x000000010272661c cxxbridge1$str$ptr + 3429484
+8   chromedriver                        0x0000000102729958 cxxbridge1$str$ptr + 3442600
+9   chromedriver                        0x000000010270d344 cxxbridge1$str$ptr + 3326356
+10  chromedriver                        0x000000010272a21c cxxbridge1$str$ptr + 3444844
+11  chromedriver                        0x00000001026fe5cc cxxbridge1$str$ptr + 3265564
+12  chromedriver                        0x0000000102744c98 cxxbridge1$str$ptr + 3554024
+13  chromedriver                        0x0000000102744e14 cxxbridge1$str$ptr + 3554404
+14  chromedriver                        0x0000000102753ecc cxxbridge1$str$ptr + 3616028
+15  libsystem_pthread.dylib             0x000000019b70b2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000019b7060fc thread_start + 8
+
+2024-10-19 02:31:28,760 - ERROR - Error navigating to DCX Release Testing: Message: 
+Stacktrace:
+0   chromedriver                        0x000000010275b9d4 cxxbridge1$str$ptr + 3647524
+1   chromedriver                        0x0000000102754234 cxxbridge1$str$ptr + 3616900
+2   chromedriver                        0x00000001021c010c cxxbridge1$string$len + 88416
+3   chromedriver                        0x0000000102202338 cxxbridge1$string$len + 359308
+4   chromedriver                        0x000000010223bb10 cxxbridge1$string$len + 594788
+5   chromedriver                        0x00000001021f6f34 cxxbridge1$string$len + 313224
+6   chromedriver                        0x00000001021f7ba4 cxxbridge1$string$len + 316408
+7   chromedriver                        0x000000010272661c cxxbridge1$str$ptr + 3429484
+8   chromedriver                        0x0000000102729958 cxxbridge1$str$ptr + 3442600
+9   chromedriver                        0x000000010270d344 cxxbridge1$str$ptr + 3326356
+10  chromedriver                        0x000000010272a21c cxxbridge1$str$ptr + 3444844
+11  chromedriver                        0x00000001026fe5cc cxxbridge1$str$ptr + 3265564
+12  chromedriver                        0x0000000102744c98 cxxbridge1$str$ptr + 3554024
+13  chromedriver                        0x0000000102744e14 cxxbridge1$str$ptr + 3554404
+14  chromedriver                        0x0000000102753ecc cxxbridge1$str$ptr + 3616028
+15  libsystem_pthread.dylib             0x000000019b70b2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000019b7060fc thread_start + 8
+
+2024-10-19 02:31:30,840 - ERROR - Error navigating to DCX Audit: Message: 
+Stacktrace:
+0   chromedriver                        0x000000010275b9d4 cxxbridge1$str$ptr + 3647524
+1   chromedriver                        0x0000000102754234 cxxbridge1$str$ptr + 3616900
+2   chromedriver                        0x00000001021c010c cxxbridge1$string$len + 88416
+3   chromedriver                        0x0000000102202338 cxxbridge1$string$len + 359308
+4   chromedriver                        0x000000010223bb10 cxxbridge1$string$len + 594788
+5   chromedriver                        0x00000001021f6f34 cxxbridge1$string$len + 313224
+6   chromedriver                        0x00000001021f7ba4 cxxbridge1$string$len + 316408
+7   chromedriver                        0x000000010272661c cxxbridge1$str$ptr + 3429484
+8   chromedriver                        0x0000000102729958 cxxbridge1$str$ptr + 3442600
+9   chromedriver                        0x000000010270d344 cxxbridge1$str$ptr + 3326356
+10  chromedriver                        0x000000010272a21c cxxbridge1$str$ptr + 3444844
+11  chromedriver                        0x00000001026fe5cc cxxbridge1$str$ptr + 3265564
+12  chromedriver                        0x0000000102744c98 cxxbridge1$str$ptr + 3554024
+13  chromedriver                        0x0000000102744e14 cxxbridge1$str$ptr + 3554404
+14  chromedriver                        0x0000000102753ecc cxxbridge1$str$ptr + 3616028
+15  libsystem_pthread.dylib             0x000000019b70b2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000019b7060fc thread_start + 8
+
+2024-10-19 02:31:30,841 - INFO - Closing the browser...
+2024-10-19 02:32:47,622 - INFO - Opening ThinkTribe homepage...
+2024-10-19 02:32:49,251 - INFO - Homepage title: Reduce online abandonment with unrivalled CX visibility - thinkTRIBE
+2024-10-19 02:32:49,288 - INFO - Cookie banner dismissed.
+2024-10-19 02:32:49,434 - INFO - 'Services' dropdown opened.
+2024-10-19 02:32:50,434 - INFO - Mobile DCX Intelligence link clicked.
+2024-10-19 02:32:52,473 - ERROR - Error navigating to Mobile DCX Intelligence: Message: 
+
+2024-10-19 02:32:54,561 - ERROR - Error navigating to Native App DCX Intelligence: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000100fd39d4 cxxbridge1$str$ptr + 3647524
+1   chromedriver                        0x0000000100fcc234 cxxbridge1$str$ptr + 3616900
+2   chromedriver                        0x0000000100a3810c cxxbridge1$string$len + 88416
+3   chromedriver                        0x0000000100a7a338 cxxbridge1$string$len + 359308
+4   chromedriver                        0x0000000100ab3b10 cxxbridge1$string$len + 594788
+5   chromedriver                        0x0000000100a6ef34 cxxbridge1$string$len + 313224
+6   chromedriver                        0x0000000100a6fba4 cxxbridge1$string$len + 316408
+7   chromedriver                        0x0000000100f9e61c cxxbridge1$str$ptr + 3429484
+8   chromedriver                        0x0000000100fa1958 cxxbridge1$str$ptr + 3442600
+9   chromedriver                        0x0000000100f85344 cxxbridge1$str$ptr + 3326356
+10  chromedriver                        0x0000000100fa221c cxxbridge1$str$ptr + 3444844
+11  chromedriver                        0x0000000100f765cc cxxbridge1$str$ptr + 3265564
+12  chromedriver                        0x0000000100fbcc98 cxxbridge1$str$ptr + 3554024
+13  chromedriver                        0x0000000100fbce14 cxxbridge1$str$ptr + 3554404
+14  chromedriver                        0x0000000100fcbecc cxxbridge1$str$ptr + 3616028
+15  libsystem_pthread.dylib             0x000000019b70b2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000019b7060fc thread_start + 8
+
+2024-10-19 02:32:56,649 - ERROR - Error navigating to Load & Performance Testing: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000100fd39d4 cxxbridge1$str$ptr + 3647524
+1   chromedriver                        0x0000000100fcc234 cxxbridge1$str$ptr + 3616900
+2   chromedriver                        0x0000000100a3810c cxxbridge1$string$len + 88416
+3   chromedriver                        0x0000000100a7a338 cxxbridge1$string$len + 359308
+4   chromedriver                        0x0000000100ab3b10 cxxbridge1$string$len + 594788
+5   chromedriver                        0x0000000100a6ef34 cxxbridge1$string$len + 313224
+6   chromedriver                        0x0000000100a6fba4 cxxbridge1$string$len + 316408
+7   chromedriver                        0x0000000100f9e61c cxxbridge1$str$ptr + 3429484
+8   chromedriver                        0x0000000100fa1958 cxxbridge1$str$ptr + 3442600
+9   chromedriver                        0x0000000100f85344 cxxbridge1$str$ptr + 3326356
+10  chromedriver                        0x0000000100fa221c cxxbridge1$str$ptr + 3444844
+11  chromedriver                        0x0000000100f765cc cxxbridge1$str$ptr + 3265564
+12  chromedriver                        0x0000000100fbcc98 cxxbridge1$str$ptr + 3554024
+13  chromedriver                        0x0000000100fbce14 cxxbridge1$str$ptr + 3554404
+14  chromedriver                        0x0000000100fcbecc cxxbridge1$str$ptr + 3616028
+15  libsystem_pthread.dylib             0x000000019b70b2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000019b7060fc thread_start + 8
+
+2024-10-19 02:32:58,733 - ERROR - Error navigating to DCX Release Testing: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000100fd39d4 cxxbridge1$str$ptr + 3647524
+1   chromedriver                        0x0000000100fcc234 cxxbridge1$str$ptr + 3616900
+2   chromedriver                        0x0000000100a3810c cxxbridge1$string$len + 88416
+3   chromedriver                        0x0000000100a7a338 cxxbridge1$string$len + 359308
+4   chromedriver                        0x0000000100ab3b10 cxxbridge1$string$len + 594788
+5   chromedriver                        0x0000000100a6ef34 cxxbridge1$string$len + 313224
+6   chromedriver                        0x0000000100a6fba4 cxxbridge1$string$len + 316408
+7   chromedriver                        0x0000000100f9e61c cxxbridge1$str$ptr + 3429484
+8   chromedriver                        0x0000000100fa1958 cxxbridge1$str$ptr + 3442600
+9   chromedriver                        0x0000000100f85344 cxxbridge1$str$ptr + 3326356
+10  chromedriver                        0x0000000100fa221c cxxbridge1$str$ptr + 3444844
+11  chromedriver                        0x0000000100f765cc cxxbridge1$str$ptr + 3265564
+12  chromedriver                        0x0000000100fbcc98 cxxbridge1$str$ptr + 3554024
+13  chromedriver                        0x0000000100fbce14 cxxbridge1$str$ptr + 3554404
+14  chromedriver                        0x0000000100fcbecc cxxbridge1$str$ptr + 3616028
+15  libsystem_pthread.dylib             0x000000019b70b2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000019b7060fc thread_start + 8
+
+2024-10-19 02:33:00,815 - ERROR - Error navigating to DCX Audit: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000100fd39d4 cxxbridge1$str$ptr + 3647524
+1   chromedriver                        0x0000000100fcc234 cxxbridge1$str$ptr + 3616900
+2   chromedriver                        0x0000000100a3810c cxxbridge1$string$len + 88416
+3   chromedriver                        0x0000000100a7a338 cxxbridge1$string$len + 359308
+4   chromedriver                        0x0000000100ab3b10 cxxbridge1$string$len + 594788
+5   chromedriver                        0x0000000100a6ef34 cxxbridge1$string$len + 313224
+6   chromedriver                        0x0000000100a6fba4 cxxbridge1$string$len + 316408
+7   chromedriver                        0x0000000100f9e61c cxxbridge1$str$ptr + 3429484
+8   chromedriver                        0x0000000100fa1958 cxxbridge1$str$ptr + 3442600
+9   chromedriver                        0x0000000100f85344 cxxbridge1$str$ptr + 3326356
+10  chromedriver                        0x0000000100fa221c cxxbridge1$str$ptr + 3444844
+11  chromedriver                        0x0000000100f765cc cxxbridge1$str$ptr + 3265564
+12  chromedriver                        0x0000000100fbcc98 cxxbridge1$str$ptr + 3554024
+13  chromedriver                        0x0000000100fbce14 cxxbridge1$str$ptr + 3554404
+14  chromedriver                        0x0000000100fcbecc cxxbridge1$str$ptr + 3616028
+15  libsystem_pthread.dylib             0x000000019b70b2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000019b7060fc thread_start + 8
+
+2024-10-19 02:33:00,816 - INFO - Closing the browser...
+2024-10-19 02:34:03,631 - INFO - Opening ThinkTribe homepage...
+2024-10-19 02:34:05,349 - INFO - Homepage title: Reduce online abandonment with unrivalled CX visibility - thinkTRIBE
+2024-10-19 02:34:05,396 - INFO - Cookie banner dismissed.
+2024-10-19 02:34:05,492 - INFO - 'Services' dropdown opened.
+2024-10-19 02:34:06,512 - INFO - Mobile DCX Intelligence link clicked.
+2024-10-19 02:34:08,549 - ERROR - Error navigating to Mobile DCX Intelligence: Message: 
+
+2024-10-19 02:34:08,607 - INFO - 'Services' dropdown opened.
+2024-10-19 02:34:08,934 - INFO - Native App DCX Intelligence link clicked.
+2024-10-19 02:34:10,977 - ERROR - Error navigating to Native App DCX Intelligence: Message: 
+
+2024-10-19 02:34:11,032 - INFO - 'Services' dropdown opened.
+2024-10-19 02:34:11,354 - INFO - Load & Performance Testing link clicked.
+2024-10-19 02:34:13,390 - ERROR - Error navigating to Load & Performance Testing: Message: 
+
+2024-10-19 02:34:13,444 - INFO - 'Services' dropdown opened.
+2024-10-19 02:34:14,571 - INFO - DCX Release Testing link clicked.
+2024-10-19 02:34:14,575 - INFO - DCX Release Testing page title: DCX Release Testing - thinkTRIBE
+2024-10-19 02:34:16,897 - INFO - Saving DCX Release Testing screenshot...
+2024-10-19 02:34:16,915 - INFO - Navigated back to the homepage.
+2024-10-19 02:34:16,956 - INFO - 'Services' dropdown opened.
+2024-10-19 02:34:17,960 - INFO - DCX Audit link clicked.
+2024-10-19 02:34:19,993 - ERROR - Error navigating to DCX Audit: Message: 
+
+2024-10-19 02:36:06,066 - INFO - Opening ThinkTribe homepage...
+2024-10-19 02:36:07,697 - INFO - Homepage title: Reduce online abandonment with unrivalled CX visibility - thinkTRIBE
+2024-10-19 02:36:07,740 - INFO - Cookie banner dismissed.
+2024-10-19 02:36:07,837 - INFO - 'Services' dropdown opened.
+2024-10-19 02:36:08,882 - INFO - Mobile DCX Intelligence link clicked.
+2024-10-19 02:36:10,919 - ERROR - Error navigating to Mobile DCX Intelligence: Message: 
+
+2024-10-19 02:36:10,971 - INFO - 'Services' dropdown opened.
+2024-10-19 02:36:11,802 - INFO - Native App DCX Intelligence link clicked.
+2024-10-19 02:36:13,843 - ERROR - Error navigating to Native App DCX Intelligence: Message: 
+
+2024-10-19 02:36:13,884 - INFO - 'Services' dropdown opened.
+2024-10-19 02:36:14,230 - INFO - Load & Performance Testing link clicked.
+2024-10-19 02:36:16,274 - ERROR - Error navigating to Load & Performance Testing: Message: 
+
+2024-10-19 02:36:16,302 - INFO - 'Services' dropdown opened.
+2024-10-19 02:36:16,894 - INFO - DCX Release Testing link clicked.
+2024-10-19 02:36:16,897 - INFO - DCX Release Testing page title: DCX Release Testing - thinkTRIBE
+2024-10-19 02:36:19,211 - INFO - Saving DCX Release Testing screenshot...
+2024-10-19 02:36:19,231 - INFO - Navigated back to the homepage.
+2024-10-19 02:36:19,280 - INFO - 'Services' dropdown opened.
+2024-10-19 02:36:20,503 - INFO - DCX Audit link clicked.
+2024-10-19 02:36:22,539 - ERROR - Error navigating to DCX Audit: Message: 
+
+2024-10-19 02:36:22,539 - INFO - Closing the browser...
+2024-10-19 02:36:29,737 - INFO - Opening ThinkTribe homepage...
+2024-10-19 02:36:31,396 - INFO - Homepage title: Reduce online abandonment with unrivalled CX visibility - thinkTRIBE
+2024-10-19 02:36:31,436 - INFO - Cookie banner dismissed.
+2024-10-19 02:36:31,546 - INFO - 'Services' dropdown opened.
+2024-10-19 02:36:32,589 - INFO - Mobile DCX Intelligence link clicked.
+2024-10-19 02:36:34,620 - ERROR - Error navigating to Mobile DCX Intelligence: Message: 
+
+2024-10-19 02:36:34,685 - INFO - 'Services' dropdown opened.
+2024-10-19 02:36:34,990 - INFO - Native App DCX Intelligence link clicked.
+2024-10-19 02:36:37,023 - ERROR - Error navigating to Native App DCX Intelligence: Message: 
+
+2024-10-19 02:36:37,073 - INFO - 'Services' dropdown opened.
+2024-10-19 02:36:37,972 - INFO - Load & Performance Testing link clicked.
+2024-10-19 02:36:40,010 - ERROR - Error navigating to Load & Performance Testing: Message: 
+
+2024-10-19 02:36:40,067 - INFO - 'Services' dropdown opened.
+2024-10-19 02:36:40,943 - INFO - DCX Release Testing link clicked.
+2024-10-19 02:36:40,947 - INFO - DCX Release Testing page title: DCX Release Testing - thinkTRIBE
+2024-10-19 02:36:43,284 - INFO - Saving DCX Release Testing screenshot...
+2024-10-19 02:36:43,301 - INFO - Navigated back to the homepage.
+2024-10-19 02:36:43,345 - INFO - 'Services' dropdown opened.
+2024-10-19 02:36:44,215 - INFO - DCX Audit link clicked.
+2024-10-19 02:36:46,255 - ERROR - Error navigating to DCX Audit: Message: 
+
+2024-10-19 02:36:46,256 - INFO - Closing the browser...
+2024-10-19 02:39:36,602 - INFO - Opening ThinkTribe homepage...
+2024-10-19 02:39:38,559 - INFO - Homepage title: Reduce online abandonment with unrivalled CX visibility - thinkTRIBE
+2024-10-19 02:39:38,606 - INFO - Cookie banner dismissed.
+2024-10-19 02:39:38,704 - INFO - 'Services' dropdown opened.
+2024-10-19 02:39:39,745 - INFO - Mobile DCX Intelligence link clicked.
+2024-10-19 02:39:41,782 - ERROR - Error navigating to Mobile DCX Intelligence: Message: 
+
+2024-10-19 02:39:41,834 - INFO - 'Services' dropdown opened.
+2024-10-19 02:39:42,207 - INFO - Native App DCX Intelligence link clicked.
+2024-10-19 02:39:44,262 - ERROR - Error navigating to Native App DCX Intelligence: Message: 
+
+2024-10-19 02:39:44,327 - INFO - 'Services' dropdown opened.
+2024-10-19 02:39:44,724 - INFO - Load & Performance Testing link clicked.
+2024-10-19 02:39:46,775 - ERROR - Error navigating to Load & Performance Testing: Message: 
+
+2024-10-19 02:39:46,802 - INFO - 'Services' dropdown opened.
+2024-10-19 02:39:47,713 - INFO - DCX Release Testing link clicked.
+2024-10-19 02:39:47,720 - INFO - DCX Release Testing page title: DCX Release Testing - thinkTRIBE
+2024-10-19 02:39:50,034 - INFO - Saving DCX Release Testing screenshot...
+2024-10-19 02:39:50,051 - INFO - Navigated back to the homepage.
+2024-10-19 02:39:50,100 - INFO - 'Services' dropdown opened.
+2024-10-19 02:39:50,701 - INFO - DCX Audit link clicked.
+2024-10-19 02:39:52,737 - ERROR - Error navigating to DCX Audit: Message: 
+
+2024-10-19 02:39:52,738 - INFO - Closing the browser...
+2024-10-19 02:42:34,222 - INFO - Opening ThinkTribe homepage...
+2024-10-19 02:42:36,038 - INFO - Homepage loaded successfully.
+2024-10-19 02:42:36,074 - INFO - Cookie banner dismissed.
+2024-10-19 02:42:36,167 - INFO - 'Services' dropdown opened.
+2024-10-19 02:42:36,178 - INFO - 'Services' dropdown opened again for Mobile DCX Intelligence.
+2024-10-19 02:42:36,582 - INFO - Clicked on 'Mobile DCX Intelligence' link.
+2024-10-19 02:42:46,760 - ERROR - Error navigating to Mobile DCX Intelligence: Message: 
+
+2024-10-19 02:42:46,767 - ERROR - Error navigating to Native App DCX Intelligence: Message: stale element reference: stale element not found
+  (Session info: chrome=130.0.6723.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+0   chromedriver                        0x000000010260f9d4 cxxbridge1$str$ptr + 3647524
+1   chromedriver                        0x0000000102608234 cxxbridge1$str$ptr + 3616900
+2   chromedriver                        0x000000010207410c cxxbridge1$string$len + 88416
+3   chromedriver                        0x0000000102081830 cxxbridge1$string$len + 143492
+4   chromedriver                        0x00000001020797b4 cxxbridge1$string$len + 110600
+5   chromedriver                        0x0000000102078154 cxxbridge1$string$len + 104872
+6   chromedriver                        0x000000010207a8ac cxxbridge1$string$len + 114944
+7   chromedriver                        0x000000010207a924 cxxbridge1$string$len + 115064
+8   chromedriver                        0x00000001020b7b68 cxxbridge1$string$len + 365500
+9   chromedriver                        0x00000001020acd14 cxxbridge1$string$len + 320872
+10  chromedriver                        0x00000001020ac8b0 cxxbridge1$string$len + 319748
+11  chromedriver                        0x00000001020efb10 cxxbridge1$string$len + 594788
+12  chromedriver                        0x00000001020aaf34 cxxbridge1$string$len + 313224
+13  chromedriver                        0x00000001020abba4 cxxbridge1$string$len + 316408
+14  chromedriver                        0x00000001025da61c cxxbridge1$str$ptr + 3429484
+15  chromedriver                        0x00000001025dd958 cxxbridge1$str$ptr + 3442600
+16  chromedriver                        0x00000001025c1344 cxxbridge1$str$ptr + 3326356
+17  chromedriver                        0x00000001025de21c cxxbridge1$str$ptr + 3444844
+18  chromedriver                        0x00000001025b25cc cxxbridge1$str$ptr + 3265564
+19  chromedriver                        0x00000001025f8c98 cxxbridge1$str$ptr + 3554024
+20  chromedriver                        0x00000001025f8e14 cxxbridge1$str$ptr + 3554404
+21  chromedriver                        0x0000000102607ecc cxxbridge1$str$ptr + 3616028
+22  libsystem_pthread.dylib             0x000000019b70b2e4 _pthread_start + 136
+23  libsystem_pthread.dylib             0x000000019b7060fc thread_start + 8
+
+2024-10-19 02:42:46,771 - ERROR - Error navigating to Load & Performance Testing: Message: stale element reference: stale element not found
+  (Session info: chrome=130.0.6723.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+0   chromedriver                        0x000000010260f9d4 cxxbridge1$str$ptr + 3647524
+1   chromedriver                        0x0000000102608234 cxxbridge1$str$ptr + 3616900
+2   chromedriver                        0x000000010207410c cxxbridge1$string$len + 88416
+3   chromedriver                        0x0000000102081830 cxxbridge1$string$len + 143492
+4   chromedriver                        0x00000001020797b4 cxxbridge1$string$len + 110600
+5   chromedriver                        0x0000000102078154 cxxbridge1$string$len + 104872
+6   chromedriver                        0x000000010207a8ac cxxbridge1$string$len + 114944
+7   chromedriver                        0x000000010207a924 cxxbridge1$string$len + 115064
+8   chromedriver                        0x00000001020b7b68 cxxbridge1$string$len + 365500
+9   chromedriver                        0x00000001020acd14 cxxbridge1$string$len + 320872
+10  chromedriver                        0x00000001020ac8b0 cxxbridge1$string$len + 319748
+11  chromedriver                        0x00000001020efb10 cxxbridge1$string$len + 594788
+12  chromedriver                        0x00000001020aaf34 cxxbridge1$string$len + 313224
+13  chromedriver                        0x00000001020abba4 cxxbridge1$string$len + 316408
+14  chromedriver                        0x00000001025da61c cxxbridge1$str$ptr + 3429484
+15  chromedriver                        0x00000001025dd958 cxxbridge1$str$ptr + 3442600
+16  chromedriver                        0x00000001025c1344 cxxbridge1$str$ptr + 3326356
+17  chromedriver                        0x00000001025de21c cxxbridge1$str$ptr + 3444844
+18  chromedriver                        0x00000001025b25cc cxxbridge1$str$ptr + 3265564
+19  chromedriver                        0x00000001025f8c98 cxxbridge1$str$ptr + 3554024
+20  chromedriver                        0x00000001025f8e14 cxxbridge1$str$ptr + 3554404
+21  chromedriver                        0x0000000102607ecc cxxbridge1$str$ptr + 3616028
+22  libsystem_pthread.dylib             0x000000019b70b2e4 _pthread_start + 136
+23  libsystem_pthread.dylib             0x000000019b7060fc thread_start + 8
+
+2024-10-19 02:42:46,773 - ERROR - Error navigating to DCX Release Testing: Message: stale element reference: stale element not found
+  (Session info: chrome=130.0.6723.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+0   chromedriver                        0x000000010260f9d4 cxxbridge1$str$ptr + 3647524
+1   chromedriver                        0x0000000102608234 cxxbridge1$str$ptr + 3616900
+2   chromedriver                        0x000000010207410c cxxbridge1$string$len + 88416
+3   chromedriver                        0x0000000102081830 cxxbridge1$string$len + 143492
+4   chromedriver                        0x00000001020797b4 cxxbridge1$string$len + 110600
+5   chromedriver                        0x0000000102078154 cxxbridge1$string$len + 104872
+6   chromedriver                        0x000000010207a8ac cxxbridge1$string$len + 114944
+7   chromedriver                        0x000000010207a924 cxxbridge1$string$len + 115064
+8   chromedriver                        0x00000001020b7b68 cxxbridge1$string$len + 365500
+9   chromedriver                        0x00000001020acd14 cxxbridge1$string$len + 320872
+10  chromedriver                        0x00000001020ac8b0 cxxbridge1$string$len + 319748
+11  chromedriver                        0x00000001020efb10 cxxbridge1$string$len + 594788
+12  chromedriver                        0x00000001020aaf34 cxxbridge1$string$len + 313224
+13  chromedriver                        0x00000001020abba4 cxxbridge1$string$len + 316408
+14  chromedriver                        0x00000001025da61c cxxbridge1$str$ptr + 3429484
+15  chromedriver                        0x00000001025dd958 cxxbridge1$str$ptr + 3442600
+16  chromedriver                        0x00000001025c1344 cxxbridge1$str$ptr + 3326356
+17  chromedriver                        0x00000001025de21c cxxbridge1$str$ptr + 3444844
+18  chromedriver                        0x00000001025b25cc cxxbridge1$str$ptr + 3265564
+19  chromedriver                        0x00000001025f8c98 cxxbridge1$str$ptr + 3554024
+20  chromedriver                        0x00000001025f8e14 cxxbridge1$str$ptr + 3554404
+21  chromedriver                        0x0000000102607ecc cxxbridge1$str$ptr + 3616028
+22  libsystem_pthread.dylib             0x000000019b70b2e4 _pthread_start + 136
+23  libsystem_pthread.dylib             0x000000019b7060fc thread_start + 8
+
+2024-10-19 02:42:46,775 - ERROR - Error navigating to DCX Audit: Message: stale element reference: stale element not found
+  (Session info: chrome=130.0.6723.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+0   chromedriver                        0x000000010260f9d4 cxxbridge1$str$ptr + 3647524
+1   chromedriver                        0x0000000102608234 cxxbridge1$str$ptr + 3616900
+2   chromedriver                        0x000000010207410c cxxbridge1$string$len + 88416
+3   chromedriver                        0x0000000102081830 cxxbridge1$string$len + 143492
+4   chromedriver                        0x00000001020797b4 cxxbridge1$string$len + 110600
+5   chromedriver                        0x0000000102078154 cxxbridge1$string$len + 104872
+6   chromedriver                        0x000000010207a8ac cxxbridge1$string$len + 114944
+7   chromedriver                        0x000000010207a924 cxxbridge1$string$len + 115064
+8   chromedriver                        0x00000001020b7b68 cxxbridge1$string$len + 365500
+9   chromedriver                        0x00000001020acd14 cxxbridge1$string$len + 320872
+10  chromedriver                        0x00000001020ac8b0 cxxbridge1$string$len + 319748
+11  chromedriver                        0x00000001020efb10 cxxbridge1$string$len + 594788
+12  chromedriver                        0x00000001020aaf34 cxxbridge1$string$len + 313224
+13  chromedriver                        0x00000001020abba4 cxxbridge1$string$len + 316408
+14  chromedriver                        0x00000001025da61c cxxbridge1$str$ptr + 3429484
+15  chromedriver                        0x00000001025dd958 cxxbridge1$str$ptr + 3442600
+16  chromedriver                        0x00000001025c1344 cxxbridge1$str$ptr + 3326356
+17  chromedriver                        0x00000001025de21c cxxbridge1$str$ptr + 3444844
+18  chromedriver                        0x00000001025b25cc cxxbridge1$str$ptr + 3265564
+19  chromedriver                        0x00000001025f8c98 cxxbridge1$str$ptr + 3554024
+20  chromedriver                        0x00000001025f8e14 cxxbridge1$str$ptr + 3554404
+21  chromedriver                        0x0000000102607ecc cxxbridge1$str$ptr + 3616028
+22  libsystem_pthread.dylib             0x000000019b70b2e4 _pthread_start + 136
+23  libsystem_pthread.dylib             0x000000019b7060fc thread_start + 8
+
+2024-10-19 02:42:46,776 - INFO - Closing the browser...
+2024-10-19 02:44:29,700 - INFO - Opening ThinkTribe homepage...
+2024-10-19 02:44:31,270 - INFO - Homepage loaded successfully.
+2024-10-19 02:44:31,316 - INFO - Cookie banner dismissed.
+2024-10-19 02:44:31,417 - INFO - 'Services' dropdown opened.
+2024-10-19 02:44:31,428 - INFO - 'Services' dropdown opened again for Mobile DCX Intelligence.
+2024-10-19 02:44:31,817 - INFO - Clicked on 'Mobile DCX Intelligence' link.
+2024-10-19 02:44:35,898 - ERROR - Error navigating to Mobile DCX Intelligence: Message: 
+
+2024-10-19 02:44:35,902 - ERROR - Error navigating to Native App DCX Intelligence: Message: stale element reference: stale element not found
+  (Session info: chrome=130.0.6723.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+0   chromedriver                        0x000000010478b9d4 cxxbridge1$str$ptr + 3647524
+1   chromedriver                        0x0000000104784234 cxxbridge1$str$ptr + 3616900
+2   chromedriver                        0x00000001041f010c cxxbridge1$string$len + 88416
+3   chromedriver                        0x00000001041fd830 cxxbridge1$string$len + 143492
+4   chromedriver                        0x00000001041f57b4 cxxbridge1$string$len + 110600
+5   chromedriver                        0x00000001041f4154 cxxbridge1$string$len + 104872
+6   chromedriver                        0x00000001041f68ac cxxbridge1$string$len + 114944
+7   chromedriver                        0x00000001041f6924 cxxbridge1$string$len + 115064
+8   chromedriver                        0x0000000104233b68 cxxbridge1$string$len + 365500
+9   chromedriver                        0x0000000104228d14 cxxbridge1$string$len + 320872
+10  chromedriver                        0x00000001042288b0 cxxbridge1$string$len + 319748
+11  chromedriver                        0x000000010426bb10 cxxbridge1$string$len + 594788
+12  chromedriver                        0x0000000104226f34 cxxbridge1$string$len + 313224
+13  chromedriver                        0x0000000104227ba4 cxxbridge1$string$len + 316408
+14  chromedriver                        0x000000010475661c cxxbridge1$str$ptr + 3429484
+15  chromedriver                        0x0000000104759958 cxxbridge1$str$ptr + 3442600
+16  chromedriver                        0x000000010473d344 cxxbridge1$str$ptr + 3326356
+17  chromedriver                        0x000000010475a21c cxxbridge1$str$ptr + 3444844
+18  chromedriver                        0x000000010472e5cc cxxbridge1$str$ptr + 3265564
+19  chromedriver                        0x0000000104774c98 cxxbridge1$str$ptr + 3554024
+20  chromedriver                        0x0000000104774e14 cxxbridge1$str$ptr + 3554404
+21  chromedriver                        0x0000000104783ecc cxxbridge1$str$ptr + 3616028
+22  libsystem_pthread.dylib             0x000000019b70b2e4 _pthread_start + 136
+23  libsystem_pthread.dylib             0x000000019b7060fc thread_start + 8
+
+2024-10-19 02:44:35,904 - ERROR - Error navigating to Load & Performance Testing: Message: stale element reference: stale element not found
+  (Session info: chrome=130.0.6723.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+0   chromedriver                        0x000000010478b9d4 cxxbridge1$str$ptr + 3647524
+1   chromedriver                        0x0000000104784234 cxxbridge1$str$ptr + 3616900
+2   chromedriver                        0x00000001041f010c cxxbridge1$string$len + 88416
+3   chromedriver                        0x00000001041fd830 cxxbridge1$string$len + 143492
+4   chromedriver                        0x00000001041f57b4 cxxbridge1$string$len + 110600
+5   chromedriver                        0x00000001041f4154 cxxbridge1$string$len + 104872
+6   chromedriver                        0x00000001041f68ac cxxbridge1$string$len + 114944
+7   chromedriver                        0x00000001041f6924 cxxbridge1$string$len + 115064
+8   chromedriver                        0x0000000104233b68 cxxbridge1$string$len + 365500
+9   chromedriver                        0x0000000104228d14 cxxbridge1$string$len + 320872
+10  chromedriver                        0x00000001042288b0 cxxbridge1$string$len + 319748
+11  chromedriver                        0x000000010426bb10 cxxbridge1$string$len + 594788
+12  chromedriver                        0x0000000104226f34 cxxbridge1$string$len + 313224
+13  chromedriver                        0x0000000104227ba4 cxxbridge1$string$len + 316408
+14  chromedriver                        0x000000010475661c cxxbridge1$str$ptr + 3429484
+15  chromedriver                        0x0000000104759958 cxxbridge1$str$ptr + 3442600
+16  chromedriver                        0x000000010473d344 cxxbridge1$str$ptr + 3326356
+17  chromedriver                        0x000000010475a21c cxxbridge1$str$ptr + 3444844
+18  chromedriver                        0x000000010472e5cc cxxbridge1$str$ptr + 3265564
+19  chromedriver                        0x0000000104774c98 cxxbridge1$str$ptr + 3554024
+20  chromedriver                        0x0000000104774e14 cxxbridge1$str$ptr + 3554404
+21  chromedriver                        0x0000000104783ecc cxxbridge1$str$ptr + 3616028
+22  libsystem_pthread.dylib             0x000000019b70b2e4 _pthread_start + 136
+23  libsystem_pthread.dylib             0x000000019b7060fc thread_start + 8
+
+2024-10-19 02:44:35,908 - ERROR - Error navigating to DCX Release Testing: Message: stale element reference: stale element not found
+  (Session info: chrome=130.0.6723.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+0   chromedriver                        0x000000010478b9d4 cxxbridge1$str$ptr + 3647524
+1   chromedriver                        0x0000000104784234 cxxbridge1$str$ptr + 3616900
+2   chromedriver                        0x00000001041f010c cxxbridge1$string$len + 88416
+3   chromedriver                        0x00000001041fd830 cxxbridge1$string$len + 143492
+4   chromedriver                        0x00000001041f57b4 cxxbridge1$string$len + 110600
+5   chromedriver                        0x00000001041f4154 cxxbridge1$string$len + 104872
+6   chromedriver                        0x00000001041f68ac cxxbridge1$string$len + 114944
+7   chromedriver                        0x00000001041f6924 cxxbridge1$string$len + 115064
+8   chromedriver                        0x0000000104233b68 cxxbridge1$string$len + 365500
+9   chromedriver                        0x0000000104228d14 cxxbridge1$string$len + 320872
+10  chromedriver                        0x00000001042288b0 cxxbridge1$string$len + 319748
+11  chromedriver                        0x000000010426bb10 cxxbridge1$string$len + 594788
+12  chromedriver                        0x0000000104226f34 cxxbridge1$string$len + 313224
+13  chromedriver                        0x0000000104227ba4 cxxbridge1$string$len + 316408
+14  chromedriver                        0x000000010475661c cxxbridge1$str$ptr + 3429484
+15  chromedriver                        0x0000000104759958 cxxbridge1$str$ptr + 3442600
+16  chromedriver                        0x000000010473d344 cxxbridge1$str$ptr + 3326356
+17  chromedriver                        0x000000010475a21c cxxbridge1$str$ptr + 3444844
+18  chromedriver                        0x000000010472e5cc cxxbridge1$str$ptr + 3265564
+19  chromedriver                        0x0000000104774c98 cxxbridge1$str$ptr + 3554024
+20  chromedriver                        0x0000000104774e14 cxxbridge1$str$ptr + 3554404
+21  chromedriver                        0x0000000104783ecc cxxbridge1$str$ptr + 3616028
+22  libsystem_pthread.dylib             0x000000019b70b2e4 _pthread_start + 136
+23  libsystem_pthread.dylib             0x000000019b7060fc thread_start + 8
+
+2024-10-19 02:44:35,910 - ERROR - Error navigating to DCX Audit: Message: stale element reference: stale element not found
+  (Session info: chrome=130.0.6723.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+0   chromedriver                        0x000000010478b9d4 cxxbridge1$str$ptr + 3647524
+1   chromedriver                        0x0000000104784234 cxxbridge1$str$ptr + 3616900
+2   chromedriver                        0x00000001041f010c cxxbridge1$string$len + 88416
+3   chromedriver                        0x00000001041fd830 cxxbridge1$string$len + 143492
+4   chromedriver                        0x00000001041f57b4 cxxbridge1$string$len + 110600
+5   chromedriver                        0x00000001041f4154 cxxbridge1$string$len + 104872
+6   chromedriver                        0x00000001041f68ac cxxbridge1$string$len + 114944
+7   chromedriver                        0x00000001041f6924 cxxbridge1$string$len + 115064
+8   chromedriver                        0x0000000104233b68 cxxbridge1$string$len + 365500
+9   chromedriver                        0x0000000104228d14 cxxbridge1$string$len + 320872
+10  chromedriver                        0x00000001042288b0 cxxbridge1$string$len + 319748
+11  chromedriver                        0x000000010426bb10 cxxbridge1$string$len + 594788
+12  chromedriver                        0x0000000104226f34 cxxbridge1$string$len + 313224
+13  chromedriver                        0x0000000104227ba4 cxxbridge1$string$len + 316408
+14  chromedriver                        0x000000010475661c cxxbridge1$str$ptr + 3429484
+15  chromedriver                        0x0000000104759958 cxxbridge1$str$ptr + 3442600
+16  chromedriver                        0x000000010473d344 cxxbridge1$str$ptr + 3326356
+17  chromedriver                        0x000000010475a21c cxxbridge1$str$ptr + 3444844
+18  chromedriver                        0x000000010472e5cc cxxbridge1$str$ptr + 3265564
+19  chromedriver                        0x0000000104774c98 cxxbridge1$str$ptr + 3554024
+20  chromedriver                        0x0000000104774e14 cxxbridge1$str$ptr + 3554404
+21  chromedriver                        0x0000000104783ecc cxxbridge1$str$ptr + 3616028
+22  libsystem_pthread.dylib             0x000000019b70b2e4 _pthread_start + 136
+23  libsystem_pthread.dylib             0x000000019b7060fc thread_start + 8
+
+2024-10-19 02:44:35,910 - INFO - Closing the browser...
+2024-10-19 02:45:17,745 - INFO - Opening ThinkTribe homepage...
+2024-10-19 02:45:19,520 - INFO - Homepage title: Reduce online abandonment with unrivalled CX visibility - thinkTRIBE
+2024-10-19 02:45:19,554 - INFO - Cookie banner dismissed.
+2024-10-19 02:45:19,647 - INFO - 'Services' dropdown opened.
+2024-10-19 02:45:20,724 - INFO - Mobile DCX Intelligence link clicked.
+2024-10-19 02:45:22,762 - ERROR - Error navigating to Mobile DCX Intelligence: Message: 
+
+2024-10-19 02:45:22,801 - INFO - 'Services' dropdown opened.
+2024-10-19 02:45:23,659 - INFO - Native App DCX Intelligence link clicked.
+2024-10-19 02:45:25,692 - ERROR - Error navigating to Native App DCX Intelligence: Message: 
+
+2024-10-19 02:45:25,732 - INFO - 'Services' dropdown opened.
+2024-10-19 02:45:26,648 - INFO - Load & Performance Testing link clicked.
+2024-10-19 02:45:28,687 - ERROR - Error navigating to Load & Performance Testing: Message: 
+
+2024-10-19 02:45:28,712 - INFO - 'Services' dropdown opened.
+2024-10-19 02:45:30,232 - INFO - DCX Release Testing link clicked.
+2024-10-19 02:45:30,237 - INFO - DCX Release Testing page title: DCX Release Testing - thinkTRIBE
+2024-10-19 02:45:32,577 - INFO - Saving DCX Release Testing screenshot...
+2024-10-19 02:45:32,589 - INFO - Navigated back to the homepage.
+2024-10-19 02:45:32,612 - INFO - 'Services' dropdown opened.
+2024-10-19 02:45:33,579 - INFO - DCX Audit link clicked.
+2024-10-19 02:45:35,620 - ERROR - Error navigating to DCX Audit: Message: 
+
+2024-10-19 02:45:35,620 - INFO - Closing the browser...
+2024-10-19 02:46:02,477 - INFO - Opening ThinkTribe homepage...
+2024-10-19 02:46:04,081 - INFO - Homepage title: Reduce online abandonment with unrivalled CX visibility - thinkTRIBE
+2024-10-19 02:46:04,112 - INFO - Cookie banner dismissed.
+2024-10-19 02:46:04,205 - INFO - 'Services' dropdown opened.
+2024-10-19 02:46:05,232 - INFO - Mobile DCX Intelligence link clicked.
+2024-10-19 02:46:07,270 - ERROR - Error navigating to Mobile DCX Intelligence: Message: 
+
+2024-10-19 02:46:07,312 - INFO - 'Services' dropdown opened.
+2024-10-19 02:46:08,161 - INFO - Native App DCX Intelligence link clicked.
+2024-10-19 02:46:10,202 - ERROR - Error navigating to Native App DCX Intelligence: Message: 
+
+2024-10-19 02:46:10,242 - INFO - 'Services' dropdown opened.
+2024-10-19 02:46:11,120 - INFO - Load & Performance Testing link clicked.
+2024-10-19 02:46:13,146 - ERROR - Error navigating to Load & Performance Testing: Message: 
+
+2024-10-19 02:46:13,179 - INFO - 'Services' dropdown opened.
+2024-10-19 02:46:15,328 - INFO - DCX Release Testing link clicked.
+2024-10-19 02:46:15,336 - INFO - DCX Release Testing page title: DCX Release Testing - thinkTRIBE
+2024-10-19 02:46:17,681 - INFO - Saving DCX Release Testing screenshot...
+2024-10-19 02:46:17,696 - INFO - Navigated back to the homepage.
+2024-10-19 02:46:17,719 - INFO - 'Services' dropdown opened.
+2024-10-19 02:46:18,762 - INFO - DCX Audit link clicked.
+2024-10-19 02:46:20,796 - ERROR - Error navigating to DCX Audit: Message: 
+
+2024-10-19 02:46:20,797 - INFO - Closing the browser...
+2024-10-19 03:00:25,628 - INFO - Opening ThinkTribe homepage...
+2024-10-19 03:00:27,435 - INFO - Saved screenshot of homepage.
+2024-10-19 03:00:27,439 - INFO - Homepage title: Reduce online abandonment with unrivalled CX visibility - thinkTRIBE
+2024-10-19 03:00:27,481 - INFO - Cookie banner dismissed.
+2024-10-19 03:00:27,579 - INFO - 'Services' dropdown opened.
+2024-10-19 03:00:28,452 - INFO - DCX Intelligence link clicked.
+2024-10-19 03:00:28,729 - INFO - Saved screenshot of DCX Intelligence page.
+2024-10-19 03:00:28,753 - INFO - Navigated back to homepage.
+2024-10-19 03:00:29,230 - INFO - 'Services' dropdown opened again.
+2024-10-19 03:00:29,670 - INFO - Mobile DCX Intelligence link clicked.
+2024-10-19 03:00:29,972 - INFO - Saved screenshot of Mobile DCX Intelligence page.
+2024-10-19 03:00:29,992 - INFO - Navigated back to homepage.
+2024-10-19 03:00:30,132 - INFO - 'Services' dropdown opened again.
+2024-10-19 03:00:30,421 - INFO - Native App DCX Intelligence link clicked.
+2024-10-19 03:00:30,596 - INFO - Saved screenshot of Native App DCX Intelligence page.
+2024-10-19 03:00:30,614 - INFO - Navigated back to homepage.
+2024-10-19 03:00:30,763 - INFO - 'Services' dropdown opened again.
+2024-10-19 03:00:31,046 - INFO - Load & Performance Testing link clicked.
+2024-10-19 03:00:31,287 - INFO - Saved screenshot of Load & Performance Testing page.
+2024-10-19 03:00:31,308 - INFO - Navigated back to homepage.
+2024-10-19 03:00:31,487 - INFO - 'Services' dropdown opened again.
+2024-10-19 03:00:31,766 - INFO - DCX Release Testing link clicked.
+2024-10-19 03:00:32,055 - INFO - Saved screenshot of DCX Release Testing page.
+2024-10-19 03:00:32,071 - INFO - Navigated back to homepage.
+2024-10-19 03:00:32,220 - INFO - 'Services' dropdown opened again.
+2024-10-19 03:00:32,501 - INFO - DCX Audit link clicked.
+2024-10-19 03:00:32,812 - INFO - Saved screenshot of DCX Audit page.
+2024-10-19 03:00:32,830 - INFO - Navigated back to homepage.
+2024-10-19 03:00:33,004 - INFO - 'Services' dropdown opened again.
+2024-10-19 03:00:33,004 - INFO - Closing the browser...
+2024-10-19 03:02:22,447 - INFO - Opening ThinkTribe homepage...
+2024-10-19 03:02:24,137 - INFO - Homepage title: Reduce online abandonment with unrivalled CX visibility - thinkTRIBE
+2024-10-19 03:02:24,182 - INFO - Cookie banner dismissed.
+2024-10-19 03:02:25,325 - INFO - 'Services' dropdown opened.
+2024-10-19 03:02:26,385 - INFO - Mobile DCX Intelligence link clicked.
+2024-10-19 03:02:27,724 - INFO - Saved screenshot of Mobile DCX Intelligence page.
+2024-10-19 03:02:27,745 - INFO - Navigated back to homepage.
+2024-10-19 03:02:28,911 - INFO - 'Services' dropdown opened again.
+2024-10-19 03:02:29,212 - INFO - Native App DCX Intelligence link clicked.
+2024-10-19 03:02:30,396 - INFO - Saved screenshot of Native App DCX Intelligence page.
+2024-10-19 03:02:30,413 - INFO - Navigated back to homepage.
+2024-10-19 03:02:31,590 - INFO - 'Services' dropdown opened again.
+2024-10-19 03:02:31,935 - INFO - Load & Performance Testing link clicked.
+2024-10-19 03:02:33,157 - INFO - Saved screenshot of Load & Performance Testing page.
+2024-10-19 03:02:33,175 - INFO - Navigated back to homepage.
+2024-10-19 03:02:34,326 - INFO - 'Services' dropdown opened again.
+2024-10-19 03:02:35,351 - INFO - DCX Release Testing link clicked.
+2024-10-19 03:02:36,682 - INFO - Saved screenshot of DCX Release Testing page.
+2024-10-19 03:02:36,699 - INFO - Navigated back to homepage.
+2024-10-19 03:02:37,864 - INFO - 'Services' dropdown opened again.
+2024-10-19 03:02:38,851 - INFO - DCX Audit link clicked.
+2024-10-19 03:02:40,158 - INFO - Saved screenshot of DCX Audit page.
+2024-10-19 03:02:40,175 - INFO - Navigated back to homepage.
+2024-10-19 03:02:41,292 - INFO - 'Services' dropdown opened again.
+2024-10-19 03:02:41,292 - INFO - Closing the browser...
+2024-10-19 03:06:36,515 - INFO - Opening ThinkTribe homepage...
+2024-10-19 03:06:38,246 - INFO - Homepage title: Reduce online abandonment with unrivalled CX visibility - thinkTRIBE
+2024-10-19 03:06:40,451 - INFO - Cookie banner dismissed.
+2024-10-19 03:06:42,633 - INFO - 'Services' dropdown opened.
+2024-10-19 03:06:45,258 - INFO - Mobile DCX Intelligence link clicked.
+2024-10-19 03:06:49,904 - INFO - Saved screenshot of Mobile DCX Intelligence page.
+2024-10-19 03:06:49,927 - INFO - Navigated back to homepage.
+2024-10-19 03:06:52,101 - INFO - 'Services' dropdown opened again.
+2024-10-19 03:06:54,424 - INFO - Native App DCX Intelligence link clicked.
+2024-10-19 03:06:58,817 - INFO - Saved screenshot of Native App DCX Intelligence page.
+2024-10-19 03:06:58,836 - INFO - Navigated back to homepage.
+2024-10-19 03:07:01,036 - INFO - 'Services' dropdown opened again.
+2024-10-19 03:07:03,407 - INFO - Load & Performance Testing link clicked.
+2024-10-19 03:07:07,939 - INFO - Saved screenshot of Load & Performance Testing page.
+2024-10-19 03:07:07,956 - INFO - Navigated back to homepage.
+2024-10-19 03:07:10,413 - INFO - 'Services' dropdown opened again.
+2024-10-19 03:07:12,942 - INFO - DCX Release Testing link clicked.
+2024-10-19 03:07:17,578 - INFO - Saved screenshot of DCX Release Testing page.
+2024-10-19 03:07:17,594 - INFO - Navigated back to homepage.
+2024-10-19 03:07:19,763 - INFO - 'Services' dropdown opened again.
+2024-10-19 03:07:22,268 - INFO - DCX Audit link clicked.
+2024-10-19 03:07:26,835 - INFO - Saved screenshot of DCX Audit page.
+2024-10-19 03:07:26,852 - INFO - Navigated back to homepage.
+2024-10-19 03:07:29,046 - INFO - 'Services' dropdown opened again.
+2024-10-19 03:07:31,051 - INFO - Closing the browser...
+2024-10-19 03:12:35,027 - INFO - Opening ThinkTribe homepage...
+2024-10-19 03:12:36,629 - INFO - Homepage title: Reduce online abandonment with unrivalled CX visibility - thinkTRIBE
+2024-10-19 03:12:38,849 - INFO - Cookie banner dismissed.
+2024-10-19 03:12:41,042 - INFO - 'Services' dropdown opened.
+2024-10-19 03:12:43,555 - INFO - Mobile DCX Intelligence link clicked.
+2024-10-19 03:12:45,858 - INFO - Successfully navigated to Mobile DCX Intelligence page.
+2024-10-19 03:12:58,291 - ERROR - Error navigating to Native App DCX Intelligence: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001026bf9d4 cxxbridge1$str$ptr + 3647524
+1   chromedriver                        0x00000001026b8234 cxxbridge1$str$ptr + 3616900
+2   chromedriver                        0x000000010212410c cxxbridge1$string$len + 88416
+3   chromedriver                        0x0000000102166338 cxxbridge1$string$len + 359308
+4   chromedriver                        0x000000010219fb10 cxxbridge1$string$len + 594788
+5   chromedriver                        0x000000010215af34 cxxbridge1$string$len + 313224
+6   chromedriver                        0x000000010215bba4 cxxbridge1$string$len + 316408
+7   chromedriver                        0x000000010268a61c cxxbridge1$str$ptr + 3429484
+8   chromedriver                        0x000000010268d958 cxxbridge1$str$ptr + 3442600
+9   chromedriver                        0x0000000102671344 cxxbridge1$str$ptr + 3326356
+10  chromedriver                        0x000000010268e21c cxxbridge1$str$ptr + 3444844
+11  chromedriver                        0x00000001026625cc cxxbridge1$str$ptr + 3265564
+12  chromedriver                        0x00000001026a8c98 cxxbridge1$str$ptr + 3554024
+13  chromedriver                        0x00000001026a8e14 cxxbridge1$str$ptr + 3554404
+14  chromedriver                        0x00000001026b7ecc cxxbridge1$str$ptr + 3616028
+15  libsystem_pthread.dylib             0x000000019b70b2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000019b7060fc thread_start + 8
+
+2024-10-19 03:13:08,729 - ERROR - Error navigating to Load & Performance Testing: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001026bf9d4 cxxbridge1$str$ptr + 3647524
+1   chromedriver                        0x00000001026b8234 cxxbridge1$str$ptr + 3616900
+2   chromedriver                        0x000000010212410c cxxbridge1$string$len + 88416
+3   chromedriver                        0x0000000102166338 cxxbridge1$string$len + 359308
+4   chromedriver                        0x000000010219fb10 cxxbridge1$string$len + 594788
+5   chromedriver                        0x000000010215af34 cxxbridge1$string$len + 313224
+6   chromedriver                        0x000000010215bba4 cxxbridge1$string$len + 316408
+7   chromedriver                        0x000000010268a61c cxxbridge1$str$ptr + 3429484
+8   chromedriver                        0x000000010268d958 cxxbridge1$str$ptr + 3442600
+9   chromedriver                        0x0000000102671344 cxxbridge1$str$ptr + 3326356
+10  chromedriver                        0x000000010268e21c cxxbridge1$str$ptr + 3444844
+11  chromedriver                        0x00000001026625cc cxxbridge1$str$ptr + 3265564
+12  chromedriver                        0x00000001026a8c98 cxxbridge1$str$ptr + 3554024
+13  chromedriver                        0x00000001026a8e14 cxxbridge1$str$ptr + 3554404
+14  chromedriver                        0x00000001026b7ecc cxxbridge1$str$ptr + 3616028
+15  libsystem_pthread.dylib             0x000000019b70b2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000019b7060fc thread_start + 8
+
+2024-10-19 03:13:19,164 - ERROR - Error navigating to DCX Release Testing: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001026bf9d4 cxxbridge1$str$ptr + 3647524
+1   chromedriver                        0x00000001026b8234 cxxbridge1$str$ptr + 3616900
+2   chromedriver                        0x000000010212410c cxxbridge1$string$len + 88416
+3   chromedriver                        0x0000000102166338 cxxbridge1$string$len + 359308
+4   chromedriver                        0x000000010219fb10 cxxbridge1$string$len + 594788
+5   chromedriver                        0x000000010215af34 cxxbridge1$string$len + 313224
+6   chromedriver                        0x000000010215bba4 cxxbridge1$string$len + 316408
+7   chromedriver                        0x000000010268a61c cxxbridge1$str$ptr + 3429484
+8   chromedriver                        0x000000010268d958 cxxbridge1$str$ptr + 3442600
+9   chromedriver                        0x0000000102671344 cxxbridge1$str$ptr + 3326356
+10  chromedriver                        0x000000010268e21c cxxbridge1$str$ptr + 3444844
+11  chromedriver                        0x00000001026625cc cxxbridge1$str$ptr + 3265564
+12  chromedriver                        0x00000001026a8c98 cxxbridge1$str$ptr + 3554024
+13  chromedriver                        0x00000001026a8e14 cxxbridge1$str$ptr + 3554404
+14  chromedriver                        0x00000001026b7ecc cxxbridge1$str$ptr + 3616028
+15  libsystem_pthread.dylib             0x000000019b70b2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000019b7060fc thread_start + 8
+
+2024-10-19 03:13:29,605 - ERROR - Error navigating to DCX Audit: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001026bf9d4 cxxbridge1$str$ptr + 3647524
+1   chromedriver                        0x00000001026b8234 cxxbridge1$str$ptr + 3616900
+2   chromedriver                        0x000000010212410c cxxbridge1$string$len + 88416
+3   chromedriver                        0x0000000102166338 cxxbridge1$string$len + 359308
+4   chromedriver                        0x000000010219fb10 cxxbridge1$string$len + 594788
+5   chromedriver                        0x000000010215af34 cxxbridge1$string$len + 313224
+6   chromedriver                        0x000000010215bba4 cxxbridge1$string$len + 316408
+7   chromedriver                        0x000000010268a61c cxxbridge1$str$ptr + 3429484
+8   chromedriver                        0x000000010268d958 cxxbridge1$str$ptr + 3442600
+9   chromedriver                        0x0000000102671344 cxxbridge1$str$ptr + 3326356
+10  chromedriver                        0x000000010268e21c cxxbridge1$str$ptr + 3444844
+11  chromedriver                        0x00000001026625cc cxxbridge1$str$ptr + 3265564
+12  chromedriver                        0x00000001026a8c98 cxxbridge1$str$ptr + 3554024
+13  chromedriver                        0x00000001026a8e14 cxxbridge1$str$ptr + 3554404
+14  chromedriver                        0x00000001026b7ecc cxxbridge1$str$ptr + 3616028
+15  libsystem_pthread.dylib             0x000000019b70b2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000019b7060fc thread_start + 8
+
+2024-10-19 03:13:29,606 - INFO - Closing the browser...
+2024-10-19 03:14:30,716 - INFO - Opening ThinkTribe homepage...
+2024-10-19 03:14:32,353 - INFO - Homepage title: Reduce online abandonment with unrivalled CX visibility - thinkTRIBE
+2024-10-19 03:14:34,552 - INFO - Cookie banner dismissed.
+2024-10-19 03:14:36,732 - INFO - 'Services' dropdown opened.
+2024-10-19 03:14:39,241 - INFO - Mobile DCX Intelligence link clicked.
+2024-10-19 03:14:41,560 - INFO - Successfully navigated to Mobile DCX Intelligence page.
+2024-10-19 03:14:49,563 - INFO - Native App DCX Intelligence link clicked.
+2024-10-19 03:14:51,770 - INFO - Successfully navigated to Native App DCX Intelligence page.
+2024-10-19 03:15:04,204 - ERROR - Error navigating to Load & Performance Testing: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001054479d4 cxxbridge1$str$ptr + 3647524
+1   chromedriver                        0x0000000105440234 cxxbridge1$str$ptr + 3616900
+2   chromedriver                        0x0000000104eac10c cxxbridge1$string$len + 88416
+3   chromedriver                        0x0000000104eee338 cxxbridge1$string$len + 359308
+4   chromedriver                        0x0000000104f27b10 cxxbridge1$string$len + 594788
+5   chromedriver                        0x0000000104ee2f34 cxxbridge1$string$len + 313224
+6   chromedriver                        0x0000000104ee3ba4 cxxbridge1$string$len + 316408
+7   chromedriver                        0x000000010541261c cxxbridge1$str$ptr + 3429484
+8   chromedriver                        0x0000000105415958 cxxbridge1$str$ptr + 3442600
+9   chromedriver                        0x00000001053f9344 cxxbridge1$str$ptr + 3326356
+10  chromedriver                        0x000000010541621c cxxbridge1$str$ptr + 3444844
+11  chromedriver                        0x00000001053ea5cc cxxbridge1$str$ptr + 3265564
+12  chromedriver                        0x0000000105430c98 cxxbridge1$str$ptr + 3554024
+13  chromedriver                        0x0000000105430e14 cxxbridge1$str$ptr + 3554404
+14  chromedriver                        0x000000010543fecc cxxbridge1$str$ptr + 3616028
+15  libsystem_pthread.dylib             0x000000019b70b2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000019b7060fc thread_start + 8
+
+2024-10-19 03:15:04,691 - INFO - DCX Release Testing link clicked.
+2024-10-19 03:15:07,018 - INFO - Successfully navigated to DCX Release Testing page.
+2024-10-19 03:15:09,490 - INFO - DCX Audit link clicked.
+2024-10-19 03:15:11,762 - INFO - Successfully navigated to DCX Audit page.
+2024-10-19 03:15:13,767 - INFO - Closing the browser...
+2024-10-19 03:17:00,638 - INFO - Opening ThinkTribe homepage...
+2024-10-19 03:17:02,370 - INFO - Homepage title: Reduce online abandonment with unrivalled CX visibility - thinkTRIBE
+2024-10-19 03:17:03,556 - INFO - Cookie banner dismissed.
+2024-10-19 03:17:05,997 - INFO - 'Services' dropdown opened.
+2024-10-19 03:17:06,513 - INFO - Mobile DCX Intelligence link clicked.
+2024-10-19 03:17:07,849 - INFO - Successfully navigated to Mobile DCX Intelligence page.
+2024-10-19 03:17:19,239 - ERROR - Error navigating to Native App DCX Intelligence: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001045e79d4 cxxbridge1$str$ptr + 3647524
+1   chromedriver                        0x00000001045e0234 cxxbridge1$str$ptr + 3616900
+2   chromedriver                        0x000000010404c10c cxxbridge1$string$len + 88416
+3   chromedriver                        0x000000010408e338 cxxbridge1$string$len + 359308
+4   chromedriver                        0x00000001040c7b10 cxxbridge1$string$len + 594788
+5   chromedriver                        0x0000000104082f34 cxxbridge1$string$len + 313224
+6   chromedriver                        0x0000000104083ba4 cxxbridge1$string$len + 316408
+7   chromedriver                        0x00000001045b261c cxxbridge1$str$ptr + 3429484
+8   chromedriver                        0x00000001045b5958 cxxbridge1$str$ptr + 3442600
+9   chromedriver                        0x0000000104599344 cxxbridge1$str$ptr + 3326356
+10  chromedriver                        0x00000001045b621c cxxbridge1$str$ptr + 3444844
+11  chromedriver                        0x000000010458a5cc cxxbridge1$str$ptr + 3265564
+12  chromedriver                        0x00000001045d0c98 cxxbridge1$str$ptr + 3554024
+13  chromedriver                        0x00000001045d0e14 cxxbridge1$str$ptr + 3554404
+14  chromedriver                        0x00000001045dfecc cxxbridge1$str$ptr + 3616028
+15  libsystem_pthread.dylib             0x000000019b70b2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000019b7060fc thread_start + 8
+
+2024-10-19 03:17:29,652 - ERROR - Error navigating to Load & Performance Testing: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001045e79d4 cxxbridge1$str$ptr + 3647524
+1   chromedriver                        0x00000001045e0234 cxxbridge1$str$ptr + 3616900
+2   chromedriver                        0x000000010404c10c cxxbridge1$string$len + 88416
+3   chromedriver                        0x000000010408e338 cxxbridge1$string$len + 359308
+4   chromedriver                        0x00000001040c7b10 cxxbridge1$string$len + 594788
+5   chromedriver                        0x0000000104082f34 cxxbridge1$string$len + 313224
+6   chromedriver                        0x0000000104083ba4 cxxbridge1$string$len + 316408
+7   chromedriver                        0x00000001045b261c cxxbridge1$str$ptr + 3429484
+8   chromedriver                        0x00000001045b5958 cxxbridge1$str$ptr + 3442600
+9   chromedriver                        0x0000000104599344 cxxbridge1$str$ptr + 3326356
+10  chromedriver                        0x00000001045b621c cxxbridge1$str$ptr + 3444844
+11  chromedriver                        0x000000010458a5cc cxxbridge1$str$ptr + 3265564
+12  chromedriver                        0x00000001045d0c98 cxxbridge1$str$ptr + 3554024
+13  chromedriver                        0x00000001045d0e14 cxxbridge1$str$ptr + 3554404
+14  chromedriver                        0x00000001045dfecc cxxbridge1$str$ptr + 3616028
+15  libsystem_pthread.dylib             0x000000019b70b2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000019b7060fc thread_start + 8
+
+2024-10-19 03:17:40,137 - ERROR - Error navigating to DCX Release Testing: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001045e79d4 cxxbridge1$str$ptr + 3647524
+1   chromedriver                        0x00000001045e0234 cxxbridge1$str$ptr + 3616900
+2   chromedriver                        0x000000010404c10c cxxbridge1$string$len + 88416
+3   chromedriver                        0x000000010408e338 cxxbridge1$string$len + 359308
+4   chromedriver                        0x00000001040c7b10 cxxbridge1$string$len + 594788
+5   chromedriver                        0x0000000104082f34 cxxbridge1$string$len + 313224
+6   chromedriver                        0x0000000104083ba4 cxxbridge1$string$len + 316408
+7   chromedriver                        0x00000001045b261c cxxbridge1$str$ptr + 3429484
+8   chromedriver                        0x00000001045b5958 cxxbridge1$str$ptr + 3442600
+9   chromedriver                        0x0000000104599344 cxxbridge1$str$ptr + 3326356
+10  chromedriver                        0x00000001045b621c cxxbridge1$str$ptr + 3444844
+11  chromedriver                        0x000000010458a5cc cxxbridge1$str$ptr + 3265564
+12  chromedriver                        0x00000001045d0c98 cxxbridge1$str$ptr + 3554024
+13  chromedriver                        0x00000001045d0e14 cxxbridge1$str$ptr + 3554404
+14  chromedriver                        0x00000001045dfecc cxxbridge1$str$ptr + 3616028
+15  libsystem_pthread.dylib             0x000000019b70b2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000019b7060fc thread_start + 8
+
+2024-10-19 03:17:50,610 - ERROR - Error navigating to DCX Audit: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001045e79d4 cxxbridge1$str$ptr + 3647524
+1   chromedriver                        0x00000001045e0234 cxxbridge1$str$ptr + 3616900
+2   chromedriver                        0x000000010404c10c cxxbridge1$string$len + 88416
+3   chromedriver                        0x000000010408e338 cxxbridge1$string$len + 359308
+4   chromedriver                        0x00000001040c7b10 cxxbridge1$string$len + 594788
+5   chromedriver                        0x0000000104082f34 cxxbridge1$string$len + 313224
+6   chromedriver                        0x0000000104083ba4 cxxbridge1$string$len + 316408
+7   chromedriver                        0x00000001045b261c cxxbridge1$str$ptr + 3429484
+8   chromedriver                        0x00000001045b5958 cxxbridge1$str$ptr + 3442600
+9   chromedriver                        0x0000000104599344 cxxbridge1$str$ptr + 3326356
+10  chromedriver                        0x00000001045b621c cxxbridge1$str$ptr + 3444844
+11  chromedriver                        0x000000010458a5cc cxxbridge1$str$ptr + 3265564
+12  chromedriver                        0x00000001045d0c98 cxxbridge1$str$ptr + 3554024
+13  chromedriver                        0x00000001045d0e14 cxxbridge1$str$ptr + 3554404
+14  chromedriver                        0x00000001045dfecc cxxbridge1$str$ptr + 3616028
+15  libsystem_pthread.dylib             0x000000019b70b2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000019b7060fc thread_start + 8
+
+2024-10-19 03:17:50,611 - INFO - Closing the browser...
+2024-10-19 03:18:25,310 - INFO - Opening ThinkTribe homepage...
+2024-10-19 03:18:27,066 - INFO - Homepage title: Reduce online abandonment with unrivalled CX visibility - thinkTRIBE
+2024-10-19 03:18:28,257 - INFO - Cookie banner dismissed.
+2024-10-19 03:18:31,189 - INFO - Mobile DCX Intelligence link clicked.
+2024-10-19 03:18:33,516 - INFO - Successfully navigated to Mobile DCX Intelligence page.
+2024-10-19 03:18:35,175 - INFO - Native App DCX Intelligence link clicked.
+2024-10-19 03:18:37,363 - INFO - Successfully navigated to Native App DCX Intelligence page.
+2024-10-19 03:18:39,847 - INFO - Load & Performance Testing link clicked.
+2024-10-19 03:18:42,118 - INFO - Successfully navigated to Load & Performance Testing page.
+2024-10-19 03:18:45,625 - INFO - DCX Release Testing link clicked.
+2024-10-19 03:18:47,940 - INFO - Successfully navigated to DCX Release Testing page.
+2024-10-19 03:18:50,465 - INFO - DCX Audit link clicked.
+2024-10-19 03:18:52,761 - INFO - Successfully navigated to DCX Audit page.
+2024-10-19 03:18:52,761 - INFO - Closing the browser...
+2024-10-19 15:16:55,336 - INFO - Opening ThinkTribe homepage...
+2024-10-19 15:16:58,879 - INFO - Homepage title: Reduce online abandonment with unrivalled CX visibility - thinkTRIBE
+2024-10-19 15:17:00,030 - INFO - Cookie banner dismissed.
+2024-10-19 15:17:16,078 - ERROR - Error navigating to Mobile DCX Intelligence: Message: 
+
+2024-10-19 15:17:44,738 - INFO - Closing the browser...
+2024-10-19 15:17:44,746 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x103e5d590>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/1E611490-3CE4-442B-A926-0E627B302D33
+2024-10-19 15:17:44,748 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x103e5d310>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/1E611490-3CE4-442B-A926-0E627B302D33
+2024-10-19 15:17:44,750 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x103e9c3e0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/1E611490-3CE4-442B-A926-0E627B302D33
+2024-10-19 15:18:19,159 - INFO - Opening ThinkTribe homepage...
+2024-10-19 15:18:22,402 - INFO - Homepage title: Reduce online abandonment with unrivalled CX visibility - thinkTRIBE
+2024-10-19 15:18:23,518 - INFO - Cookie banner dismissed.
+2024-10-19 15:18:25,951 - INFO - Mobile DCX Intelligence link clicked.
+2024-10-19 15:18:28,105 - INFO - Successfully navigated to Mobile DCX Intelligence page.
+2024-10-19 15:18:29,424 - INFO - Native App DCX Intelligence link clicked.
+2024-10-19 15:18:31,560 - INFO - Successfully navigated to Native App DCX Intelligence page.
+2024-10-19 15:18:32,877 - INFO - Load & Performance Testing link clicked.
+2024-10-19 15:18:35,028 - INFO - Successfully navigated to Load & Performance Testing page.
+2024-10-19 15:18:36,330 - INFO - DCX Release Testing link clicked.
+2024-10-19 15:18:38,484 - INFO - Successfully navigated to DCX Release Testing page.
+2024-10-19 15:18:39,789 - INFO - DCX Audit link clicked.
+2024-10-19 15:18:41,939 - INFO - Successfully navigated to DCX Audit page.
+2024-10-19 15:18:41,939 - INFO - Closing the browser...
