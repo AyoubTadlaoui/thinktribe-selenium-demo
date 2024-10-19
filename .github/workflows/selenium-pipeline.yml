@@ -4,7 +4,7 @@ on: [push, pull_request]
 
 jobs:
   selenium:
-    runs-on: macos-latest  # Use macOS for Safari testing
+    runs-on: macos-latest  
 
     steps:
       - name: Checkout code
@@ -20,9 +20,8 @@ jobs:
 
       - name: Enable Safari Remote Automation
         run: |
-          # Ensure that the Safari remote automation is enabled.
-          echo "To enable 'Allow Remote Automation' in Safari, please do it manually on your local machine."
-          echo "You may need to run this command locally: 'safaridriver --enable'"
+          echo "Please ensure that 'Allow Remote Automation' is enabled in Safari's Developer menu."
+          echo "To enable, run: 'safaridriver --enable' in your local terminal."
 
       - name: Run Selenium Test
         run: python selenium_test.py
